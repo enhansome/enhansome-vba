@@ -255,7 +255,7 @@
             "last_commit": "2026-06-11T22:58:33Z",
             "owner": "EtienneLenoir",
             "repo": "duckdb-vba",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
@@ -890,7 +890,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3391
+            "stars": 3392
           }
         },
         {
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:37:53.686Z",
+    "last_updated": "2026-08-13T22:46:12.593Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",
     "enhanced_repository": "enhansome/enhansome-vba",

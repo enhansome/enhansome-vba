@@ -42,7 +42,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Library Collections
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 406 | 🐛 46 | 🌐 VBA | 📅 2026-05-15 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 406 | 🐛 45 | 🌐 VBA | 📅 2026-05-15 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 135 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
 
@@ -115,7 +115,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/VBA-SQL-Library?style\&logo=github\&label) [SQL Library](https://github.com/Beakerboy/VBA-SQL-Library) ⭐ 89 | 🐛 18 | 🌐 VBA | 📅 2025-10-16 - An OOP SQL Library for psql, mssql, mysql databases.
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_dll][o_dll]](#- "Requires external DLLs") ![GHStars](https://img.shields.io/github/stars/EtienneLenoir/duckdb-vba?style\&logo=github\&label) [DuckDB VBA](https://github.com/EtienneLenoir/duckdb-vba) ⭐ 8 | 🐛 0 | 🌐 VBA | 📅 2026-06-11 - Embedded DuckDB OLAP engine for Excel/VBA using the native DuckDB C API through a lightweight DLL bridge. No ODBC setup or external server required; supports fast DuckDB SQL analytics, dictionary lookups, Range/Array ingestion, Parquet/CSV/JSON workflows, DuckDB/SQLite/PostgreSQL connectivity, and Access-to-DuckDB migration.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_dll][o_dll]](#- "Requires external DLLs") ![GHStars](https://img.shields.io/github/stars/EtienneLenoir/duckdb-vba?style\&logo=github\&label) [DuckDB VBA](https://github.com/EtienneLenoir/duckdb-vba) ⭐ 9 | 🐛 0 | 🌐 VBA | 📅 2026-06-11 - Embedded DuckDB OLAP engine for Excel/VBA using the native DuckDB C API through a lightweight DLL bridge. No ODBC setup or external server required; supports fast DuckDB SQL analytics, dictionary lookups, Range/Array ingestion, Parquet/CSV/JSON workflows, DuckDB/SQLite/PostgreSQL connectivity, and Access-to-DuckDB migration.
 
 ### Userform tools
 
@@ -242,7 +242,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## External tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,391 | 🐛 518 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,392 | 🐛 518 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 62 | 🐛 9 | 🌐 VBA | 📅 2026-07-01 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 56 | 🐛 22 | 🌐 TypeScript | 📅 2025-06-18.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 7 | 🌐 PowerShell | 📅 2026-07-21 - Github action to automatically build a VBA project on commit.

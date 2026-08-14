@@ -587,7 +587,7 @@
             "last_commit": "2024-03-14T10:17:52Z",
             "owner": "VBA-tools",
             "repo": "VBA-Web",
-            "stars": 2136
+            "stars": 2135
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-12T13:13:21Z",
             "owner": "wqweto",
             "repo": "VbAsyncSocket",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:46:12.593Z",
+    "last_updated": "2026-08-14T22:26:45.620Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",
     "enhanced_repository": "enhansome/enhansome-vba",

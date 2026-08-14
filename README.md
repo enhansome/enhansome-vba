@@ -166,9 +166,9 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Web tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Web?style\&logo=github\&label) [VBA-Web](https://github.com/VBA-tools/VBA-Web) ⭐ 2,136 | 🐛 149 | 🌐 Visual Basic | 📅 2024-03-14 - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Web?style\&logo=github\&label) [VBA-Web](https://github.com/VBA-tools/VBA-Web) ⭐ 2,135 | 🐛 149 | 🌐 Visual Basic | 📅 2024-03-14 - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/michaelneu/webxcel?style\&logo=github\&label) [webxcel](https://github.com/michaelneu/webxcel) ⭐ 466 | 🐛 12 | 🌐 Visual Basic | 📅 2019-10-05 - A webserver which runs a RESTful backend. The creator also made an [article](https://dev.to/michaelneu/to-vba-and-beyond---building-a-restful-backend-using-plain-microsoft-excel-macros-76n) on how it works on dev.to.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbAsyncSocket?style\&logo=github\&label) [vbAsyncSocket](https://github.com/wqweto/VbAsyncSocket) ⭐ 191 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2026-08-12 - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbAsyncSocket?style\&logo=github\&label) [vbAsyncSocket](https://github.com/wqweto/VbAsyncSocket) ⭐ 192 | 🐛 21 | 🌐 Visual Basic 6.0 | 📅 2026-08-12 - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GCuser99/SeleniumVBA?style\&logo=github\&label) [SeleniumVBA](https://github.com/GCuser99/SeleniumVBA) ⭐ 134 | 🐛 5 | 🌐 VBA | 📅 2026-06-27 - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/PerditionC/VBAChromeDevProtocol?style\&logo=github\&label) [Chrome Automation (via devtools protocol)](https://github.com/PerditionC/VBAChromeDevProtocol) ⭐ 75 | 🐛 9 | 🌐 VBA | 📅 2023-01-18 - Automate Chrome using chrome devtools protocol.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/vbacollective/wasabi?style\&logo=github\&label) [Wasabi](https://github.com/vbacollective/wasabi) ⭐ 52 | 🐛 1 | 🌐 VBA | 📅 2026-08-10 - Native WebSocket, WSS, MQTT, and raw TCP client for VBA. Pure VBA, single-file, and zero dependencies.
@@ -403,4 +403,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

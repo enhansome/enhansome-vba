@@ -463,7 +463,7 @@
             "last_commit": "2024-05-24T15:21:26Z",
             "owner": "cristianbuse",
             "repo": "VBA-MemoryTools",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2026-08-15T14:42:18Z",
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2020-02-04T12:26:44Z",
             "owner": "DylanTallchiefGit",
             "repo": "xlStudio",
-            "stars": 279
+            "stars": 277
           }
         },
         {
@@ -890,7 +890,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3393
+            "stars": 3395
           }
         },
         {
@@ -929,7 +929,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-07-21T03:11:35Z",
+            "last_commit": "2026-08-17T13:09:00Z",
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
             "stars": 31
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:24:34.291Z",
+    "last_updated": "2026-08-17T22:27:56.799Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",
     "enhanced_repository": "enhansome/enhansome-vba",

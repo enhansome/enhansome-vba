@@ -379,20 +379,6 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "VBA Userform Transitions and Animations - An excellent library for implementing animation easings into the Userform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic",
-            "last_commit": "2018-12-18T20:43:22Z",
-            "owner": "todar",
-            "repo": "VBA-Userform-Animations",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
           "description": "WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
           "children": [],
           "repo_info": {
@@ -401,6 +387,20 @@
             "last_commit": "2026-08-15T07:48:45Z",
             "owner": "tarboh",
             "repo": "WebView2-For-Excel-VBA",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "VBA Userform Transitions and Animations - An excellent library for implementing animation easings into the Userform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2018-12-18T20:43:22Z",
+            "owner": "todar",
+            "repo": "VBA-Userform-Animations",
             "stars": 20
           }
         },
@@ -828,7 +828,7 @@
             "last_commit": "2020-02-04T12:26:44Z",
             "owner": "DylanTallchiefGit",
             "repo": "xlStudio",
-            "stars": 277
+            "stars": 278
           }
         },
         {
@@ -867,7 +867,7 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-08-16T08:54:07Z",
+            "last_commit": "2026-08-17T23:09:35Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
             "stars": 13
@@ -904,7 +904,7 @@
             "last_commit": "2026-07-01T16:41:12Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -971,7 +971,7 @@
             "last_commit": "2022-12-04T13:35:46Z",
             "owner": "Planet-Source-Code",
             "repo": "PSCIndex",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:27:56.799Z",
+    "last_updated": "2026-08-18T22:27:20.816Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",
     "enhanced_repository": "enhansome/enhansome-vba",

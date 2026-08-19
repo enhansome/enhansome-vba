@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164031037,
             "language": "VBA",
             "last_commit": "2026-05-15T11:38:31Z",
             "owner": "sancarn",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110856502,
             "language": "Visual Basic 6.0",
             "last_commit": "2024-10-20T23:36:45Z",
             "owner": "kellyethridge",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193353343,
             "language": "VBA",
             "last_commit": "2021-03-06T02:50:36Z",
             "owner": "RelaxTools",
@@ -49,650 +52,705 @@
       "title": "Library Collections"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA Expressions - A powerful string expression evaluator focussed on mathematics and data processing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461513176,
+                "language": "VBA",
+                "last_commit": "2026-02-12T13:44:48Z",
+                "owner": "ECP-Solutions",
+                "repo": "VBA-Expressions",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Advanced Scripting Framework (ASF) - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1110993812,
+                "language": "VBA",
+                "last_commit": "2026-07-27T03:39:49Z",
+                "owner": "ECP-Solutions",
+                "repo": "ASF",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "vb2clr - Use C# from VBA using the .NET CLR runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131500885,
+                "language": "VBA",
+                "last_commit": "2026-02-20T12:45:06Z",
+                "owner": "jet2jet",
+                "repo": "vb2clr",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embedded programming languages"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "",
+                  "description": "Excel-ZipTools - Parse, read, and extract data from, Zip files. Written in pure vba.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 583125311,
+                    "language": "VBA",
+                    "last_commit": "2026-03-24T12:35:47Z",
+                    "owner": "cristianbuse",
+                    "repo": "Excel-ZipTools",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "",
+                  "description": "vbaSquash - Compress and decompress files and byte arrays using the built-in functions available on Windows 8+. Provides access to compression algorithms , , , and .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 996827433,
+                    "language": "VBA",
+                    "last_commit": "2025-10-24T08:52:54Z",
+                    "owner": "KallunWillock",
+                    "repo": "vbaSquash",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ZIP"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Formats"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "",
+                  "description": "VBA-Dictionary - A dictionary object which stores key-value pairs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24106270,
+                    "language": "VBA",
+                    "last_commit": "2023-04-17T02:57:07Z",
+                    "owner": "VBA-tools",
+                    "repo": "VBA-Dictionary",
+                    "stars": 405
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "",
+                  "description": "VBA-FastDictionary - Fast, cross-platform, native Dictionary. Replacement for scripting dictionary.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 770931351,
+                    "language": "VBA",
+                    "last_commit": "2026-02-05T10:47:20Z",
+                    "owner": "cristianbuse",
+                    "repo": "VBA-FastDictionary",
+                    "stars": 67
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "",
+                  "description": "VBA-ExtendedDictionary - A dictionary object using Scripting.Dictionary but exposes some additional useful functionality.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 341044731,
+                    "language": "VBA",
+                    "last_commit": "2025-05-25T16:17:25Z",
+                    "owner": "SSlinky",
+                    "repo": "VBA-ExtendedDictionary",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dictionary"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Structures"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA-Math-Objects - A matrix and vector library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357567460,
+                "language": "VBA",
+                "last_commit": "2025-05-17T14:16:48Z",
+                "owner": "Beakerboy",
+                "repo": "VBA-Math-Objects",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA Float - An utility to perform computations over big integers and rational numbers with thousands digits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569962592,
+                "language": "VBA",
+                "last_commit": "2024-08-29T08:58:45Z",
+                "owner": "ws-garcia",
+                "repo": "VBA-float",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Math libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "SQL Library - An OOP SQL Library for psql, mssql, mysql databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153445610,
+                "language": "VBA",
+                "last_commit": "2025-10-16T20:25:48Z",
+                "owner": "Beakerboy",
+                "repo": "VBA-SQL-Library",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "DuckDB VBA - Embedded DuckDB OLAP engine for Excel/VBA using the native DuckDB C API through a lightweight DLL bridge. No ODBC setup or external server required; supports fast DuckDB SQL analytics, dictionary lookups, Range/Array ingestion, Parquet/CSV/JSON workflows, DuckDB/SQLite/PostgreSQL connectivity, and Access-to-DuckDB migration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149531132,
+                "language": "VBA",
+                "last_commit": "2026-06-11T22:58:33Z",
+                "owner": "EtienneLenoir",
+                "repo": "duckdb-vba",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Modern UI Components - Custom modern looking controls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131998941,
+                "language": null,
+                "last_commit": "2022-01-28T09:26:56Z",
+                "owner": "krishKM",
+                "repo": "Modern-UI-Components-for-VBA",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA-UserForm-MouseScroll - Allows Mouse Wheel Scrolling on MSForms Controls and Userforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170578024,
+                "language": "VBA",
+                "last_commit": "2026-08-05T11:32:33Z",
+                "owner": "cristianbuse",
+                "repo": "VBA-UserForm-MouseScroll",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "MVVM - Model-View-ViewModel Infrastructure for maintainable userform development.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 297156607,
+                "language": "VBA",
+                "last_commit": "2021-02-02T14:00:32Z",
+                "owner": "rubberduck-vba",
+                "repo": "MVVM",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Task Dialog - A huge amount of UI functionality from this 1 class, in a strictly dynamic and modular way. Great for data input forms. Also see vbforums post for more information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555574954,
+                "language": "Visual Basic 6.0",
+                "last_commit": "2026-02-21T04:00:48Z",
+                "owner": "fafalone",
+                "repo": "cTaskDialog64",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Material UI - Make your userform feel modern with Material UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123346286,
+                "language": "TeX",
+                "last_commit": "2020-08-19T23:06:52Z",
+                "owner": "todar",
+                "repo": "VBA-Material-Design",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Easy EventListener - Consolidate all event handling of a userform into 1 callback.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174034206,
+                "language": "VBA",
+                "last_commit": "2021-08-17T20:56:20Z",
+                "owner": "todar",
+                "repo": "VBA-Userform-EventListener",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Trick's Timer - If you need to run a piece of code continuously and don't have access to (and/or you need to run it faster than once per second), this is the class for you! Also check out the forum post for more information. Limitation: Requires a modal form.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191251278,
+                "language": "VBA",
+                "last_commit": "2020-01-13T06:53:25Z",
+                "owner": "thetrik",
+                "repo": "VbTrickTimer",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "ucWebView2 - WebView2 user control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944933166,
+                "language": null,
+                "last_commit": "2025-12-05T17:57:48Z",
+                "owner": "fafalone",
+                "repo": "ucWebView2",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182574150,
+                "language": "VBA",
+                "last_commit": "2026-08-15T07:48:45Z",
+                "owner": "tarboh",
+                "repo": "WebView2-For-Excel-VBA",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA Userform Transitions and Animations - An excellent library for implementing animation easings into the Userform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160881859,
+                "language": "Visual Basic",
+                "last_commit": "2018-12-18T20:43:22Z",
+                "owner": "todar",
+                "repo": "VBA-Userform-Animations",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "ucSimplePlayer - Simple video player user control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 891707487,
+                "language": "Visual Basic 6.0",
+                "last_commit": "2025-11-19T09:58:14Z",
+                "owner": "fafalone",
+                "repo": "ucSimplePlayer",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA-SafeTimer - Reliable, no-crash timer for VBA. Code can be debugged and stopped safely. Works with or without a form.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 968116713,
+                "language": "VBA",
+                "last_commit": "2025-09-24T14:19:56Z",
+                "owner": "cristianbuse",
+                "repo": "VBA-SafeTimer",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "ucAniGifEx - Animated GIF user control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 963303579,
+                "language": "Visual Basic 6.0",
+                "last_commit": "2025-11-25T01:28:41Z",
+                "owner": "fafalone",
+                "repo": "ucAniGifEx",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Userform tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA-MemoryTools - Provides an ultra-fast, copy memory alternative.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315924464,
+                "language": "VBA",
+                "last_commit": "2024-05-24T15:21:26Z",
+                "owner": "cristianbuse",
+                "repo": "VBA-MemoryTools",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA state-loss callback - A crash free detector for VBA state-loss. State loss can occur when: Someone clicks in an unhandled error; You click the VBA stop button; You enter design mode; Application exits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588176532,
+                "language": "VBA",
+                "last_commit": "2024-09-05T10:15:47Z",
+                "owner": "cristianbuse",
+                "repo": "VBA-StateLossCallback",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBAStack - A library for retrieving VBA callstack information at runtime from Office applications. The author also made a pure VBA native version.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1131801967,
+                "language": "C#",
+                "last_commit": "2026-03-08T19:22:40Z",
+                "owner": "Ariche2",
+                "repo": "VBAStack",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Calling private module functions - You can also check out Greedo's code review.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580946575,
+                "language": "VBA",
+                "last_commit": "2024-03-26T23:01:19Z",
+                "owner": "Greedquest",
+                "repo": "vbInvoke",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "vbInvoke - but COM based and can call private module methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580946575,
+                "language": "VBA",
+                "last_commit": "2024-03-26T23:01:19Z",
+                "owner": "Greedquest",
+                "repo": "vbInvoke",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Low level tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "vba-regex - A native regex expression parser and runtime engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 833718064,
+                "language": "JavaScript",
+                "last_commit": "2025-06-06T06:44:44Z",
+                "owner": "sihlfall",
+                "repo": "vba-regex",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "ClooWrapperVBA - Execute OpenCL from VBA, using either the GPU or CPU.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466799428,
+                "language": "C#",
+                "last_commit": "2026-05-25T08:56:43Z",
+                "owner": "Excel-lent",
+                "repo": "ClooWrapperVBA",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VbPeg - A parser generator for VBA. Converts PEG grammar like this into VBA code like this. Very useful if your implementing a new programming language in VBA. Wqweto has also included some math expression parsers as tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120297874,
+                "language": "Visual Basic",
+                "last_commit": "2019-03-05T14:45:47Z",
+                "owner": "wqweto",
+                "repo": "VbPeg",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Parsers / Interpreters"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA-Web - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6379955,
+                "language": "Visual Basic",
+                "last_commit": "2024-03-14T10:17:52Z",
+                "owner": "VBA-tools",
+                "repo": "VBA-Web",
+                "stars": 2135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "webxcel - A webserver which runs a RESTful backend. The creator also made an article on how it works on dev.to.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103196825,
+                "language": "Visual Basic",
+                "last_commit": "2019-10-05T22:11:40Z",
+                "owner": "michaelneu",
+                "repo": "webxcel",
+                "stars": 466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "vbAsyncSocket - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124236424,
+                "language": "Visual Basic 6.0",
+                "last_commit": "2026-08-12T13:13:21Z",
+                "owner": "wqweto",
+                "repo": "VbAsyncSocket",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "SeleniumVBA - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472831091,
+                "language": "VBA",
+                "last_commit": "2026-06-27T17:58:19Z",
+                "owner": "GCuser99",
+                "repo": "SeleniumVBA",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Chrome Automation (via devtools protocol) - Automate Chrome using chrome devtools protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453856727,
+                "language": "VBA",
+                "last_commit": "2023-01-18T17:25:35Z",
+                "owner": "PerditionC",
+                "repo": "VBAChromeDevProtocol",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Wasabi - Native WebSocket, WSS, MQTT, and raw TCP client for VBA. Pure VBA, single-file, and zero dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1225203687,
+                "language": "VBA",
+                "last_commit": "2026-08-10T05:32:49Z",
+                "owner": "vbacollective",
+                "repo": "wasabi",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Edge Automation - Automate Chromium Edge using devtools protocol. GitHub backup here.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220121798,
+                "language": "Visual Basic 6.0",
+                "last_commit": "2026-04-24T17:26:13Z",
+                "owner": "sancarn",
+                "repo": "stdVBA-Inspiration",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "VBA-WebSocket - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also a class and an async version built by the discoverer of the microsoft code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359212841,
+                "language": "VBA",
+                "last_commit": "2026-05-07T01:03:50Z",
+                "owner": "EagleAglow",
+                "repo": "vba-websocket",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web tools"
+        }
+      ],
       "title": "Libraries"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA Expressions - A powerful string expression evaluator focussed on mathematics and data processing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-02-12T13:44:48Z",
-            "owner": "ECP-Solutions",
-            "repo": "VBA-Expressions",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Advanced Scripting Framework (ASF) - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-07-27T03:39:49Z",
-            "owner": "ECP-Solutions",
-            "repo": "ASF",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "vb2clr - Use C# from VBA using the .NET CLR runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-02-20T12:45:06Z",
-            "owner": "jet2jet",
-            "repo": "vb2clr",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Embedded programming languages"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data Formats"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Excel-ZipTools - Parse, read, and extract data from, Zip files. Written in pure vba.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-03-24T12:35:47Z",
-            "owner": "cristianbuse",
-            "repo": "Excel-ZipTools",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "vbaSquash - Compress and decompress files and byte arrays using the built-in functions available on Windows 8+. Provides access to compression algorithms , , , and .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2025-10-24T08:52:54Z",
-            "owner": "KallunWillock",
-            "repo": "vbaSquash",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "ZIP"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data Structures"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-Dictionary - A dictionary object which stores key-value pairs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2023-04-17T02:57:07Z",
-            "owner": "VBA-tools",
-            "repo": "VBA-Dictionary",
-            "stars": 405
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-FastDictionary - Fast, cross-platform, native Dictionary. Replacement for scripting dictionary.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-02-05T10:47:20Z",
-            "owner": "cristianbuse",
-            "repo": "VBA-FastDictionary",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-ExtendedDictionary - A dictionary object using Scripting.Dictionary but exposes some additional useful functionality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2025-05-25T16:17:25Z",
-            "owner": "SSlinky",
-            "repo": "VBA-ExtendedDictionary",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Dictionary"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-Math-Objects - A matrix and vector library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2025-05-17T14:16:48Z",
-            "owner": "Beakerboy",
-            "repo": "VBA-Math-Objects",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA Float - An utility to perform computations over big integers and rational numbers with thousands digits.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2024-08-29T08:58:45Z",
-            "owner": "ws-garcia",
-            "repo": "VBA-float",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Math libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "SQL Library - An OOP SQL Library for psql, mssql, mysql databases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2025-10-16T20:25:48Z",
-            "owner": "Beakerboy",
-            "repo": "VBA-SQL-Library",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "DuckDB VBA - Embedded DuckDB OLAP engine for Excel/VBA using the native DuckDB C API through a lightweight DLL bridge. No ODBC setup or external server required; supports fast DuckDB SQL analytics, dictionary lookups, Range/Array ingestion, Parquet/CSV/JSON workflows, DuckDB/SQLite/PostgreSQL connectivity, and Access-to-DuckDB migration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-06-11T22:58:33Z",
-            "owner": "EtienneLenoir",
-            "repo": "duckdb-vba",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Database tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Modern UI Components - Custom modern looking controls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-01-28T09:26:56Z",
-            "owner": "krishKM",
-            "repo": "Modern-UI-Components-for-VBA",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-UserForm-MouseScroll - Allows Mouse Wheel Scrolling on MSForms Controls and Userforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-08-05T11:32:33Z",
-            "owner": "cristianbuse",
-            "repo": "VBA-UserForm-MouseScroll",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "MVVM - Model-View-ViewModel Infrastructure for maintainable userform development.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "VBA",
-            "last_commit": "2021-02-02T14:00:32Z",
-            "owner": "rubberduck-vba",
-            "repo": "MVVM",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Task Dialog - A huge amount of UI functionality from this 1 class, in a strictly dynamic and modular way. Great for data input forms. Also see vbforums post for more information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic 6.0",
-            "last_commit": "2026-02-21T04:00:48Z",
-            "owner": "fafalone",
-            "repo": "cTaskDialog64",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Material UI - Make your userform feel modern with Material UI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2020-08-19T23:06:52Z",
-            "owner": "todar",
-            "repo": "VBA-Material-Design",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Easy EventListener - Consolidate all event handling of a userform into 1 callback.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2021-08-17T20:56:20Z",
-            "owner": "todar",
-            "repo": "VBA-Userform-EventListener",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Trick's Timer - If you need to run a piece of code continuously and don't have access to (and/or you need to run it faster than once per second), this is the class for you! Also check out the forum post for more information. Limitation: Requires a modal form.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2020-01-13T06:53:25Z",
-            "owner": "thetrik",
-            "repo": "VbTrickTimer",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "ucWebView2 - WebView2 user control.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-12-05T17:57:48Z",
-            "owner": "fafalone",
-            "repo": "ucWebView2",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-08-15T07:48:45Z",
-            "owner": "tarboh",
-            "repo": "WebView2-For-Excel-VBA",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA Userform Transitions and Animations - An excellent library for implementing animation easings into the Userform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic",
-            "last_commit": "2018-12-18T20:43:22Z",
-            "owner": "todar",
-            "repo": "VBA-Userform-Animations",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "ucSimplePlayer - Simple video player user control.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic 6.0",
-            "last_commit": "2025-11-19T09:58:14Z",
-            "owner": "fafalone",
-            "repo": "ucSimplePlayer",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-SafeTimer - Reliable, no-crash timer for VBA. Code can be debugged and stopped safely. Works with or without a form.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2025-09-24T14:19:56Z",
-            "owner": "cristianbuse",
-            "repo": "VBA-SafeTimer",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "ucAniGifEx - Animated GIF user control.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic 6.0",
-            "last_commit": "2025-11-25T01:28:41Z",
-            "owner": "fafalone",
-            "repo": "ucAniGifEx",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Userform tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-MemoryTools - Provides an ultra-fast, copy memory alternative.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2024-05-24T15:21:26Z",
-            "owner": "cristianbuse",
-            "repo": "VBA-MemoryTools",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA state-loss callback - A crash free detector for VBA state-loss. State loss can occur when: Someone clicks in an unhandled error; You click the VBA stop button; You enter design mode; Application exits.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2024-09-05T10:15:47Z",
-            "owner": "cristianbuse",
-            "repo": "VBA-StateLossCallback",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBAStack - A library for retrieving VBA callstack information at runtime from Office applications. The author also made a pure VBA native version.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-03-08T19:22:40Z",
-            "owner": "Ariche2",
-            "repo": "VBAStack",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Calling private module functions - You can also check out Greedo's code review.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2024-03-26T23:01:19Z",
-            "owner": "Greedquest",
-            "repo": "vbInvoke",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "vbInvoke - but COM based and can call private module methods.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2024-03-26T23:01:19Z",
-            "owner": "Greedquest",
-            "repo": "vbInvoke",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Low level tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "vba-regex - A native regex expression parser and runtime engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-06-06T06:44:44Z",
-            "owner": "sihlfall",
-            "repo": "vba-regex",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "ClooWrapperVBA - Execute OpenCL from VBA, using either the GPU or CPU.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-25T08:56:43Z",
-            "owner": "Excel-lent",
-            "repo": "ClooWrapperVBA",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VbPeg - A parser generator for VBA. Converts PEG grammar like this into VBA code like this. Very useful if your implementing a new programming language in VBA. Wqweto has also included some math expression parsers as tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic",
-            "last_commit": "2019-03-05T14:45:47Z",
-            "owner": "wqweto",
-            "repo": "VbPeg",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Parsers / Interpreters"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-Web - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic",
-            "last_commit": "2024-03-14T10:17:52Z",
-            "owner": "VBA-tools",
-            "repo": "VBA-Web",
-            "stars": 2135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "webxcel - A webserver which runs a RESTful backend. The creator also made an article on how it works on dev.to.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic",
-            "last_commit": "2019-10-05T22:11:40Z",
-            "owner": "michaelneu",
-            "repo": "webxcel",
-            "stars": 466
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "vbAsyncSocket - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic 6.0",
-            "last_commit": "2026-08-12T13:13:21Z",
-            "owner": "wqweto",
-            "repo": "VbAsyncSocket",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "SeleniumVBA - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-06-27T17:58:19Z",
-            "owner": "GCuser99",
-            "repo": "SeleniumVBA",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Chrome Automation (via devtools protocol) - Automate Chrome using chrome devtools protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2023-01-18T17:25:35Z",
-            "owner": "PerditionC",
-            "repo": "VBAChromeDevProtocol",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Wasabi - Native WebSocket, WSS, MQTT, and raw TCP client for VBA. Pure VBA, single-file, and zero dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-08-10T05:32:49Z",
-            "owner": "vbacollective",
-            "repo": "wasabi",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Edge Automation - Automate Chromium Edge using devtools protocol. GitHub backup here.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic 6.0",
-            "last_commit": "2026-04-24T17:26:13Z",
-            "owner": "sancarn",
-            "repo": "stdVBA-Inspiration",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "VBA-WebSocket - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also a class and an async version built by the discoverer of the microsoft code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2026-05-07T01:03:50Z",
-            "owner": "EagleAglow",
-            "repo": "vba-websocket",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Web tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -701,6 +759,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 53316794,
             "language": "VBA",
             "last_commit": "2022-09-01T07:24:57Z",
             "owner": "spences10",
@@ -715,6 +774,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382140323,
             "language": null,
             "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
@@ -729,6 +789,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382140323,
             "language": null,
             "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
@@ -743,6 +804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382140323,
             "language": null,
             "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
@@ -757,6 +819,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382140323,
             "language": null,
             "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
@@ -771,6 +834,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382140323,
             "language": null,
             "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
@@ -785,6 +849,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1189370392,
             "language": "VBA",
             "last_commit": "2026-08-15T14:42:18Z",
             "owner": "KallunWillock",
@@ -799,6 +864,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120297874,
             "language": "Visual Basic",
             "last_commit": "2019-03-05T14:45:47Z",
             "owner": "wqweto",
@@ -810,74 +876,80 @@
       "title": "Developer tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "xlStudio - A DAW for Microsoft Excel. Also check out the awesome video.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237981751,
+                "language": "VBA",
+                "last_commit": "2020-02-04T12:26:44Z",
+                "owner": "DylanTallchiefGit",
+                "repo": "xlStudio",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Battleships",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 147279855,
+                "language": "VBA",
+                "last_commit": "2022-10-27T16:09:35Z",
+                "owner": "rubberduck-vba",
+                "repo": "Battleship",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "ExcelCommodroid - Commodore computer loader using MS Excel on Windows. VBA7 only.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648718620,
+                "language": "C++",
+                "last_commit": "2024-09-15T13:37:01Z",
+                "owner": "raspberrypioneer",
+                "repo": "ExcelCommodroid",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "M2000Interpreter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407969725,
+                "language": "Visual Basic 6.0",
+                "last_commit": "2026-08-17T23:09:35Z",
+                "owner": "M2000Interpreter",
+                "repo": "Environment",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games / Fun projects"
+        }
+      ],
       "title": "Examples"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "xlStudio - A DAW for Microsoft Excel. Also check out the awesome video.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBA",
-            "last_commit": "2020-02-04T12:26:44Z",
-            "owner": "DylanTallchiefGit",
-            "repo": "xlStudio",
-            "stars": 278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Battleships",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "VBA",
-            "last_commit": "2022-10-27T16:09:35Z",
-            "owner": "rubberduck-vba",
-            "repo": "Battleship",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "ExcelCommodroid - Commodore computer loader using MS Excel on Windows. VBA7 only.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-09-15T13:37:01Z",
-            "owner": "raspberrypioneer",
-            "repo": "ExcelCommodroid",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "M2000Interpreter",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic 6.0",
-            "last_commit": "2026-08-17T23:09:35Z",
-            "owner": "M2000Interpreter",
-            "repo": "Environment",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Games / Fun projects"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -886,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59367670,
             "language": "Python",
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
@@ -900,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411281029,
             "language": "VBA",
             "last_commit": "2026-07-01T16:41:12Z",
             "owner": "serkonda7",
@@ -914,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531760337,
             "language": "TypeScript",
             "last_commit": "2025-06-18T04:00:35Z",
             "owner": "SSlinky",
@@ -928,6 +1003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 956214381,
             "language": "PowerShell",
             "last_commit": "2026-08-17T13:09:00Z",
             "owner": "DecimalTurn",
@@ -942,6 +1018,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586912716,
             "language": "Python",
             "last_commit": "2026-04-14T16:41:47Z",
             "owner": "Beakerboy",
@@ -953,63 +1030,53 @@
       "title": "External tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Planet Source Code",
-          "description": "A code repository GitHub which holds copious amounts of code. The site was closed down in 2023, but fortunately all VBA/VB6 samples were archived on GitHub today. Possibly not the entire collection (?) of projects/source code that was previously available at the PSC website.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-12-04T13:35:46Z",
-            "owner": "Planet-Source-Code",
-            "repo": "PSCIndex",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vbAccelerator Archive",
-          "description": "Archived copy of vbAccelerator site (articles, source code, etc.) that disappeared in 2015, reappeared in 2018, and anyone's guess what's going to next… Primarily VB6, but useful VBA resource.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2018-07-20T17:07:03Z",
-            "owner": "tannerhelland",
-            "repo": "vbAccelerator-Archive",
-            "stars": 97
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Planet Source Code",
+              "description": "A code repository GitHub which holds copious amounts of code. The site was closed down in 2023, but fortunately all VBA/VB6 samples were archived on GitHub today. Possibly not the entire collection (?) of projects/source code that was previously available at the PSC website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298236430,
+                "language": null,
+                "last_commit": "2022-12-04T13:35:46Z",
+                "owner": "Planet-Source-Code",
+                "repo": "PSCIndex",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vbAccelerator Archive",
+              "description": "Archived copy of vbAccelerator site (articles, source code, etc.) that disappeared in 2015, reappeared in 2018, and anyone's guess what's going to next… Primarily VB6, but useful VBA resource.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47978403,
+                "language": "HTML",
+                "last_commit": "2018-07-20T17:07:03Z",
+                "owner": "tannerhelland",
+                "repo": "vbAccelerator-Archive",
+                "stars": 97
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VB6 / VBScript"
         }
       ],
-      "title": "VB6 / VBScript"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Footnotes"
-    },
-    {
-      "description": "Because of the nature of VBA, many libraries do not work on all Operating Systems, in all Office Applications or in all architectures(x64/x86). Some libraries may also require external resources (DLL, Addins, etc.) which can be difficult to use due to VBA's lack of a package manager. To help you in finding projects suitable for your needs, this awesome list uses the following symbology. The symbology also has tooltips which may provide more information.",
-      "items": [],
-      "title": "Symbology"
-    },
-    {
-      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:27:20.816Z",
+    "last_updated": "2026-08-19T12:57:36.732Z",
     "original_repository": "sancarn/awesome-vba",
+    "original_repository_id": 496789368,
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",
     "enhanced_repository": "enhansome/enhansome-vba",
     "enhanced_repository_description": null,

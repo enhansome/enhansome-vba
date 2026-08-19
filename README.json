@@ -414,7 +414,7 @@
                 "archived": false,
                 "id": 1182574150,
                 "language": "VBA",
-                "last_commit": "2026-08-15T07:48:45Z",
+                "last_commit": "2026-08-19T22:18:08Z",
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
                 "stars": 21
@@ -1074,7 +1074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:36.732Z",
+    "last_updated": "2026-08-19T22:27:41.508Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_id": 496789368,
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",

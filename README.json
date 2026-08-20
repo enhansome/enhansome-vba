@@ -414,7 +414,7 @@
                 "archived": false,
                 "id": 1182574150,
                 "language": "VBA",
-                "last_commit": "2026-08-19T22:18:08Z",
+                "last_commit": "2026-08-20T15:40:40Z",
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
                 "stars": 21
@@ -854,7 +854,7 @@
             "last_commit": "2026-08-15T14:42:18Z",
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "archived": false,
             "id": 956214381,
             "language": "PowerShell",
-            "last_commit": "2026-08-17T13:09:00Z",
+            "last_commit": "2026-08-20T17:57:52Z",
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
             "stars": 31
@@ -1074,7 +1074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:27:41.508Z",
+    "last_updated": "2026-08-20T22:30:50.337Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_id": 496789368,
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",

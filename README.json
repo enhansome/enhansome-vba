@@ -529,7 +529,7 @@
                 "last_commit": "2026-03-08T19:22:40Z",
                 "owner": "Ariche2",
                 "repo": "VBAStack",
-                "stars": 15
+                "stars": 16
               }
             },
             {
@@ -633,7 +633,7 @@
                 "last_commit": "2024-03-14T10:17:52Z",
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2135
+                "stars": 2136
               }
             },
             {
@@ -934,7 +934,7 @@
                 "archived": false,
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
-                "last_commit": "2026-08-17T23:09:35Z",
+                "last_commit": "2026-08-22T11:20:20Z",
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
                 "stars": 13
@@ -963,7 +963,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3395
+            "stars": 3397
           }
         },
         {
@@ -1074,7 +1074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:28:02.974Z",
+    "last_updated": "2026-08-22T22:25:25.358Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_id": 496789368,
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",

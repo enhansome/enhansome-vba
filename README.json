@@ -181,7 +181,7 @@
                     "last_commit": "2026-02-05T10:47:20Z",
                     "owner": "cristianbuse",
                     "repo": "VBA-FastDictionary",
-                    "stars": 67
+                    "stars": 68
                   }
                 },
                 {
@@ -708,7 +708,7 @@
                 "last_commit": "2026-08-10T05:32:49Z",
                 "owner": "vbacollective",
                 "repo": "wasabi",
-                "stars": 52
+                "stars": 53
               }
             },
             {
@@ -934,7 +934,7 @@
                 "archived": false,
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
-                "last_commit": "2026-08-22T11:20:20Z",
+                "last_commit": "2026-08-23T17:43:18Z",
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
                 "stars": 13
@@ -963,7 +963,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3397
+            "stars": 3401
           }
         },
         {
@@ -978,7 +978,7 @@
             "last_commit": "2026-07-01T16:41:12Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2025-06-18T04:00:35Z",
             "owner": "SSlinky",
             "repo": "VBA-LanguageServer",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -1074,7 +1074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:25:25.358Z",
+    "last_updated": "2026-08-23T22:25:22.059Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_id": 496789368,
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",

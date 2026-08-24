@@ -123,11 +123,11 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-UserForm-MouseScroll?style\&logo=github\&label) [VBA-UserForm-MouseScroll](https://github.com/cristianbuse/VBA-UserForm-MouseScroll) ⭐ 109 | 🐛 1 | 🌐 VBA | 📅 2026-08-05 - Allows Mouse Wheel Scrolling on MSForms Controls and Userforms.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/rubberduck-vba/MVVM?style\&logo=github\&label) [MVVM](https://github.com/rubberduck-vba/MVVM) ⚠️ Archived - Model-View-ViewModel Infrastructure for maintainable userform development.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/fafalone/cTaskDialog64?style\&logo=github\&label) [Task Dialog](https://github.com/fafalone/cTaskDialog64) ⭐ 49 | 🐛 3 | 🌐 Visual Basic 6.0 | 📅 2026-02-21 - A huge amount of UI functionality from this 1 class, in a strictly dynamic and modular way. Great for data input forms. Also see [vbforums](https://www.vbforums.com/showthread.php?777021-VB6-TaskDialogIndirect-Complete-class-implementation-of-Vista-Task-Dialogs) post for more information.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/todar/VBA-Material-Design?style\&logo=github\&label) [Material UI](https://github.com/todar/VBA-Material-Design) ⭐ 45 | 🐛 2 | 🌐 TeX | 📅 2020-08-19 - Make your userform feel modern with Material UI.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/todar/VBA-Material-Design?style\&logo=github\&label) [Material UI](https://github.com/todar/VBA-Material-Design) ⭐ 46 | 🐛 2 | 🌐 TeX | 📅 2020-08-19 - Make your userform feel modern with Material UI.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/todar/VBA-Userform-EventListener?style\&logo=github\&label) [Easy EventListener](https://github.com/todar/VBA-Userform-EventListener) ⭐ 29 | 🐛 0 | 🌐 VBA | 📅 2021-08-17 - Consolidate all event handling of a userform into 1 callback.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/thetrik/VbTrickTimer?style\&logo=github\&label) [Trick's Timer](https://github.com/thetrik/VbTrickTimer) ⭐ 29 | 🐛 3 | 🌐 VBA | 📅 2020-01-13 - If you need to run a piece of code continuously and don't have access to `Application.OnTime` (and/or you need to run it faster than once per second), this is the class for you! Also check out the [forum post](https://www.vbforums.com/showthread.php?875635-VB6-VBA-Timer-class) for more information. Limitation: Requires a modal form.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/tarboh/WebView2-For-Excel-VBA?style\&logo=github\&label) [WebView2 for Excel VBA](https://github.com/tarboh/WebView2-For-Excel-VBA) ⭐ 22 | 🐛 4 | 🌐 VBA | 📅 2026-08-20 – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/fafalone/ucWebView2?style\&logo=github\&label) [![o\_dll][o_dll]](#- "Requires external OCX") [ucWebView2](https://github.com/fafalone/ucWebView2) ⭐ 21 | 🐛 4 | 📅 2025-12-05 - WebView2 user control.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/tarboh/WebView2-For-Excel-VBA?style\&logo=github\&label) [WebView2 for Excel VBA](https://github.com/tarboh/WebView2-For-Excel-VBA) ⭐ 21 | 🐛 4 | 🌐 VBA | 📅 2026-08-20 – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/todar/VBA-Userform-Animations?style\&logo=github\&label) [VBA Userform Transitions and Animations](https://github.com/todar/VBA-Userform-Animations) ⭐ 20 | 🐛 0 | 🌐 Visual Basic | 📅 2018-12-18 - An excellent library for implementing animation easings into the Userform.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/fafalone/ucSimplePlayer?style\&logo=github\&label) [![o\_dll][o_dll]](#- "Requires external OCX") [ucSimplePlayer](https://github.com/fafalone/ucSimplePlayer) ⭐ 13 | 🐛 2 | 🌐 Visual Basic 6.0 | 📅 2025-11-19 - Simple video player user control.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-SafeTimer?style\&logo=github\&label) [VBA-SafeTimer](https://github.com/cristianbuse/VBA-SafeTimer) ⭐ 13 | 🐛 0 | 🌐 VBA | 📅 2025-09-24 - Reliable, no-crash timer for VBA. Code can be debugged and stopped safely. Works with or without a form.
@@ -211,8 +211,8 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### UI Userforms
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [Drag and drop control](https://www.vbforums.com/showthread.php?888843-Load-image-into-STATIC-control-Win32\&p=5496575\&viewfull=1#post5496575) - Dragging and dropping image controls around a userform.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/EZPZMouseController?style\&logo=github\&label) [EZPZMouseController](https://github.com/KallunWillock/EZPZMouseController/) ⭐ 8 | 🐛 0 | 🌐 VBA | 📅 2025-06-09 - An example of using native Microsoft Ink Collector to detect mouse wheel and mouse move events.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [Drag and drop control](https://www.vbforums.com/showthread.php?888843-Load-image-into-STATIC-control-Win32\&p=5496575\&viewfull=1#post5496575) - Dragging and dropping image controls around a userform.
 
 ### Low level examples
 
@@ -224,18 +224,18 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_xl][a_xl]](#-) [Excel Name Manager](https://jkp-ads.com/excel-name-manager.asp) - An enhanced Name Manager replacement by JKP, Charles Williams and Matthew Henson. 2025 Finalist in the Best Microsoft Excel Add-In category.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_xl][a_xl]](#-) [Excel Flex Find](https://jkp-ads.com/excel-flexfind.asp) - An enhanced Find-And-Replace replacement by JKP that exends the search scope to objects and VBA code.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 
 ### Games / Fun projects
 
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/DylanTallchiefGit/xlStudio?style\&logo=github\&label) [xlStudio](https://github.com/DylanTallchiefGit/xlStudio) ⭐ 278 | 🐛 2 | 🌐 VBA | 📅 2020-02-04 - A DAW for Microsoft Excel. Also check out the awesome [video](https://youtu.be/RFdCM2kHL64).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/rubberduck-vba/Battleship?style\&logo=github\&label) [Battleships](https://github.com/rubberduck-vba/Battleship) ⚠️ Archived
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/raspberrypioneer/ExcelCommodroid?style\&logo=github\&label) [ExcelCommodroid](https://github.com/raspberrypioneer/ExcelCommodroid/tree/main) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2024-09-15 - Commodore computer loader using MS Excel on Windows. VBA7 only.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-)[![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/M2000Interpreter/Environment?style\&logo=github\&label) [M2000Interpreter](https://github.com/M2000Interpreter/Environment) ⭐ 13 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-08-23
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-)[![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/M2000Interpreter/Environment?style\&logo=github\&label) [M2000Interpreter](https://github.com/M2000Interpreter/Environment) ⭐ 13 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-08-24
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Cellivization](https://s0lly.itch.io/cellivization) - A cool RTS-like game created in Excel. Also check out the awesome [video](https://www.youtube.com/watch?v=PzETBRcr_i8).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Arkanoid](http://leandroascierto.com/blog/juego-arkanoid-en-excel/) - Arkanoid, a retro arcade game, built in Excel. On some machines it runs faster than others.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_ac][a_ac]](#-) [Pacman](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame3/?page=Page_11#LXXIV)
@@ -279,6 +279,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Websites
 
+* [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 407 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
 * [Excel Development Platform Blog](https://exceldevelopmentplatform.blogspot.com/) - Blog dealing with advanced topics/VBA.
 * [MSDN VBA Documentation](https://msdn.microsoft.com/en-us/vba/office-vba-reference)
 * [MS-VBAL Language Spec](https://docs.microsoft.com/en-gb/openspecs/microsoft_general_purpose_programming_languages/ms-vbal/d5418146-0bd2-45eb-9c7a-fd9502722c74)
@@ -290,7 +291,6 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![a\_ol][a_ol]](#-) [Slipstick](https://www.slipstick.com/) - Website of Diane Poremsky (MVP) with focus on Outlook and VBA.
 * [![a\_ol][a_ol]](#-) [TechnicLee](https://techniclee.wordpress.com/) - Outlook blog, many examples including code variations depending on user request.
 * [![a\_pp][a_pp]](#-) [PowerPoint VBA](https://pptvba.com/) - A site devoted to teaching VBA through making games in PowerPoint.
-* [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 407 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
 * [Sancarn's vba-articles](https://sancarn.github.io/vba-articles/) - Sancarn's articles on various topics related to VBA.
 * [![a\_ac][a_ac]](#-) [No Longer Set](https://nolongerset.com) - Access + VBA site of Microsoft MVP Mike Wolfe. Provides weekly updates on development of TwinBasic.
 * [![a\_ac][a_ac]](#-) [Isladogs on Access](https://isladogs.co.uk/) - Access + VBA site of Microsoft MVP Colin Riddington. Excellent resource with VBA projects in Access VBA.
@@ -403,4 +403,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

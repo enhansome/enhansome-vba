@@ -1088,7 +1088,7 @@
                 "archived": false,
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
-                "last_commit": "2026-08-24T12:31:09Z",
+                "last_commit": "2026-08-25T01:44:24Z",
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
                 "stars": 13
@@ -1250,7 +1250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:29:49.654Z",
+    "last_updated": "2026-08-25T06:14:01.574Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_id": 496789368,
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",

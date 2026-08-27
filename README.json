@@ -509,7 +509,7 @@
                 "archived": false,
                 "id": 1182574150,
                 "language": "VBA",
-                "last_commit": "2026-08-20T15:40:40Z",
+                "last_commit": "2026-08-26T16:04:34Z",
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
                 "stars": 22
@@ -743,7 +743,7 @@
                 "last_commit": "2024-03-14T10:17:52Z",
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2136
+                "stars": 2135
               }
             },
             {
@@ -1088,7 +1088,7 @@
                 "archived": false,
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
-                "last_commit": "2026-08-25T12:43:23Z",
+                "last_commit": "2026-08-26T20:20:57Z",
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
                 "stars": 13
@@ -1117,7 +1117,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3401
+            "stars": 3404
           }
         },
         {
@@ -1159,7 +1159,7 @@
             "archived": false,
             "id": 956214381,
             "language": "PowerShell",
-            "last_commit": "2026-08-20T17:57:52Z",
+            "last_commit": "2026-08-26T19:51:21Z",
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
             "stars": 31
@@ -1250,7 +1250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:30:32.110Z",
+    "last_updated": "2026-08-27T03:00:14.904Z",
     "original_repository": "sancarn/awesome-vba",
     "original_repository_id": 496789368,
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",

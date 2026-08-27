@@ -1250,9 +1250,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:00:14.904Z",
-    "original_repository": "sancarn/awesome-vba",
-    "original_repository_id": 496789368,
+    "last_updated": "2026-08-27T12:09:42.082Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 496789368,
+      "language": null,
+      "last_commit": "2026-06-01T15:48:15Z",
+      "owner": "sancarn",
+      "repo": "awesome-vba",
+      "stars": 620
+    },
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",
     "enhanced_repository": "enhansome/enhansome-vba",
     "enhanced_repository_description": null,

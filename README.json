@@ -16,7 +16,8 @@
             "owner": "sancarn",
             "repo": "stdVBA",
             "stars": 407
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "kellyethridge",
             "repo": "VBCorLib",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "RelaxTools",
             "repo": "Hidennotare",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         }
       ],
       "title": "Library Collections"
@@ -69,7 +72,8 @@
                 "owner": "ECP-Solutions",
                 "repo": "VBA-Expressions",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "jet2jet",
                 "repo": "vb2clr",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -123,7 +129,8 @@
                     "owner": "cristianbuse",
                     "repo": "VBA-FastJSON",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 }
               ],
               "description": null,
@@ -145,7 +152,8 @@
                     "owner": "ws-garcia",
                     "repo": "VBA-CSV-interface",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 }
               ],
               "description": null,
@@ -167,7 +175,8 @@
                     "owner": "VBA-tools",
                     "repo": "VBA-XML",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 }
               ],
               "description": null,
@@ -189,7 +198,8 @@
                     "owner": "cristianbuse",
                     "repo": "Excel-ZipTools",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 },
                 {
                   "node_type": "item",
@@ -204,7 +214,8 @@
                     "owner": "KallunWillock",
                     "repo": "vbaSquash",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 }
               ],
               "description": null,
@@ -226,7 +237,8 @@
                     "owner": "PerditionC",
                     "repo": "vbaPDF",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 }
               ],
               "description": null,
@@ -255,7 +267,8 @@
                     "owner": "Senipah",
                     "repo": "VBA-Better-Array",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 }
               ],
               "description": null,
@@ -277,7 +290,8 @@
                     "owner": "VBA-tools",
                     "repo": "VBA-Dictionary",
                     "stars": 405
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 },
                 {
                   "node_type": "item",
@@ -292,7 +306,8 @@
                     "owner": "cristianbuse",
                     "repo": "VBA-FastDictionary",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 },
                 {
                   "node_type": "item",
@@ -307,7 +322,8 @@
                     "owner": "SSlinky",
                     "repo": "VBA-ExtendedDictionary",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:00:44.087Z"
                 }
               ],
               "description": null,
@@ -334,7 +350,8 @@
                 "owner": "Beakerboy",
                 "repo": "VBA-Math-Objects",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -349,7 +366,8 @@
                 "owner": "ws-garcia",
                 "repo": "VBA-float",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -371,7 +389,8 @@
                 "owner": "Beakerboy",
                 "repo": "VBA-SQL-Library",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -386,7 +405,8 @@
                 "owner": "EtienneLenoir",
                 "repo": "duckdb-vba",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -408,7 +428,8 @@
                 "owner": "krishKM",
                 "repo": "Modern-UI-Components-for-VBA",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -423,7 +444,8 @@
                 "owner": "cristianbuse",
                 "repo": "VBA-UserForm-MouseScroll",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -438,7 +460,8 @@
                 "owner": "rubberduck-vba",
                 "repo": "MVVM",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -453,7 +476,8 @@
                 "owner": "fafalone",
                 "repo": "cTaskDialog64",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -468,7 +492,8 @@
                 "owner": "todar",
                 "repo": "VBA-Material-Design",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -483,7 +508,8 @@
                 "owner": "todar",
                 "repo": "VBA-Userform-EventListener",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -498,7 +524,8 @@
                 "owner": "thetrik",
                 "repo": "VbTrickTimer",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -513,7 +540,8 @@
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -528,7 +556,8 @@
                 "owner": "fafalone",
                 "repo": "ucWebView2",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -543,7 +572,8 @@
                 "owner": "todar",
                 "repo": "VBA-Userform-Animations",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -558,7 +588,8 @@
                 "owner": "fafalone",
                 "repo": "ucSimplePlayer",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -573,7 +604,8 @@
                 "owner": "cristianbuse",
                 "repo": "VBA-SafeTimer",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -588,7 +620,8 @@
                 "owner": "fafalone",
                 "repo": "ucAniGifEx",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -610,7 +643,8 @@
                 "owner": "cristianbuse",
                 "repo": "VBA-MemoryTools",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -625,7 +659,8 @@
                 "owner": "cristianbuse",
                 "repo": "VBA-StateLossCallback",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -640,7 +675,8 @@
                 "owner": "Ariche2",
                 "repo": "VBAStack",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -655,7 +691,8 @@
                 "owner": "Greedquest",
                 "repo": "vbInvoke",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -670,7 +707,8 @@
                 "owner": "Greedquest",
                 "repo": "vbInvoke",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -692,7 +730,8 @@
                 "owner": "sihlfall",
                 "repo": "vba-regex",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -707,7 +746,8 @@
                 "owner": "Excel-lent",
                 "repo": "ClooWrapperVBA",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -722,7 +762,8 @@
                 "owner": "wqweto",
                 "repo": "VbPeg",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -744,7 +785,8 @@
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
                 "stars": 2135
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -759,7 +801,8 @@
                 "owner": "michaelneu",
                 "repo": "webxcel",
                 "stars": 466
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -774,7 +817,8 @@
                 "owner": "wqweto",
                 "repo": "VbAsyncSocket",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -789,7 +833,8 @@
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -804,7 +849,8 @@
                 "owner": "PerditionC",
                 "repo": "VBAChromeDevProtocol",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -819,7 +865,8 @@
                 "owner": "vbacollective",
                 "repo": "wasabi",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -834,7 +881,8 @@
                 "owner": "sancarn",
                 "repo": "stdVBA-Inspiration",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -849,7 +897,8 @@
                 "owner": "EagleAglow",
                 "repo": "vba-websocket",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -875,7 +924,8 @@
             "owner": "spences10",
             "repo": "VBA-IDE-Code-Export",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -890,7 +940,8 @@
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -905,7 +956,8 @@
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -920,7 +972,8 @@
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -935,7 +988,8 @@
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -950,7 +1004,8 @@
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -965,7 +1020,8 @@
             "owner": "KallunWillock",
             "repo": "vbaXray",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -980,7 +1036,8 @@
             "owner": "wqweto",
             "repo": "VbPeg",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         }
       ],
       "title": "Developer tools"
@@ -1003,7 +1060,8 @@
                 "owner": "KallunWillock",
                 "repo": "EZPZMouseController",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -1025,7 +1083,8 @@
                 "owner": "joey-melo",
                 "repo": "vba-syntax-highlight",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -1047,7 +1106,8 @@
                 "owner": "DylanTallchiefGit",
                 "repo": "xlStudio",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1122,8 @@
                 "owner": "rubberduck-vba",
                 "repo": "Battleship",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1138,8 @@
                 "owner": "raspberrypioneer",
                 "repo": "ExcelCommodroid",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -1088,11 +1150,12 @@
                 "archived": false,
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
-                "last_commit": "2026-08-26T20:20:57Z",
+                "last_commit": "2026-08-28T00:12:29Z",
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -1117,8 +1180,9 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3404
-          }
+            "stars": 3406
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -1133,7 +1197,8 @@
             "owner": "serkonda7",
             "repo": "vscode-vba",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -1148,7 +1213,8 @@
             "owner": "SSlinky",
             "repo": "VBA-LanguageServer",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -1163,7 +1229,8 @@
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         },
         {
           "node_type": "item",
@@ -1178,7 +1245,8 @@
             "owner": "Beakerboy",
             "repo": "MS-OVBA",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:00:44.087Z"
         }
       ],
       "title": "External tools"
@@ -1201,7 +1269,8 @@
                 "owner": "Planet-Source-Code",
                 "repo": "PSCIndex",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             },
             {
               "node_type": "item",
@@ -1216,7 +1285,8 @@
                 "owner": "tannerhelland",
                 "repo": "vbAccelerator-Archive",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -1237,8 +1307,9 @@
                 "last_commit": "2023-04-12T00:28:30Z",
                 "owner": "jeffpar",
                 "repo": "kbarchive",
-                "stars": 407
-              }
+                "stars": 408
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -1250,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:42.082Z",
+    "last_updated": "2026-08-28T06:00:44.087Z",
     "original_repository_info": {
       "archived": false,
       "id": 496789368,

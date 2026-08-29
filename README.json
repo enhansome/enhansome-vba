@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VBA Standard Library - A Collection of libraries to form a common standard layer for modern VBA applications.",
+            "homepage": "https://sancarn.github.io/stdVBA-docs/",
             "id": 164031037,
             "language": "VBA",
+            "license": "MIT",
             "last_commit": "2026-05-15T11:38:31Z",
+            "open_issues": 45,
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 407
+            "stars": 407,
+            "topics": [
+              "macros",
+              "microsoft",
+              "microsoft-excel",
+              "vba",
+              "vba-library"
+            ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -26,12 +37,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The VBCorLib framework brings many of the powerful .NET classes to VB6.",
+            "homepage": "http://www.kellyethridge.com/vbcorlib/",
             "id": 110856502,
             "language": "Visual Basic 6.0",
+            "license": "MIT",
             "last_commit": "2024-10-20T23:36:45Z",
+            "open_issues": 22,
             "owner": "kellyethridge",
             "repo": "VBCorLib",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "biginteger",
+              "collections",
+              "cryptography",
+              "encoding",
+              "encryption",
+              "filesystem",
+              "hashing",
+              "io",
+              "vb6"
+            ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -42,12 +68,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Hidennotare\" is a source that people in RelaxTools slowly simmered.",
+            "homepage": null,
             "id": 193353343,
             "language": "VBA",
+            "license": "MIT",
             "last_commit": "2021-03-06T02:50:36Z",
+            "open_issues": 1,
             "owner": "RelaxTools",
             "repo": "Hidennotare",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "vba",
+              "vba-library"
+            ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         }
@@ -66,12 +100,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful library extending VBA with over 100 functions for math, stats, finance, and data manipulation. It supports matrix operations, and user-defined functions, enhancing automation and analysis within Microsoft Office and LibreOffice environments for data management, financial calculations, an more.",
+                "homepage": null,
                 "id": 461513176,
                 "language": "VBA",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-12T13:44:48Z",
+                "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "VBA-Expressions",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "basic",
+                  "cholesky-decomposition",
+                  "cholesky-factorization",
+                  "curve-fitting",
+                  "determinant-calculation",
+                  "equation-systems",
+                  "geometry",
+                  "libreoffice",
+                  "lo-basic",
+                  "lu-decomposition",
+                  "mathematical-expression-parser",
+                  "mathematical-expressions-evaluator",
+                  "mathematics",
+                  "maths",
+                  "matrix-multiplication",
+                  "multivariate-linear-regression",
+                  "science",
+                  "statistical-models"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -82,12 +140,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Advanced Scripting Framework is a modern scripting for VBA: JavaScript-like syntax, classes with inheritance, map/filter/reduce, closures, regex. No COM, works everywhere. Transform Excel automation.",
+                "homepage": "https://ecp-solutions.github.io/ASF/",
                 "id": 1110993812,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2026-07-27T03:39:49Z",
+                "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "asf",
+                  "interpreter",
+                  "javascript",
+                  "json",
+                  "language",
+                  "modern-scripting",
+                  "modern-vba",
+                  "modernizing-vba",
+                  "programming",
+                  "vba"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -98,12 +172,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The helper class for Visual Basic for Applications (VBA) 7.0, providing access to CLR (.NET Framework) assemblies and classes.",
+                "homepage": null,
                 "id": 131500885,
                 "language": "VBA",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-20T12:45:06Z",
+                "open_issues": 1,
                 "owner": "jet2jet",
                 "repo": "vb2clr",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "clr",
+                  "excel",
+                  "netframework",
+                  "vba",
+                  "visual-basic"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -123,12 +208,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast Native JSON Parser / Serializer for VBA, compatible with Windows and Mac",
+                    "homepage": null,
                     "id": 902343533,
                     "language": "VBA",
+                    "license": "MIT",
                     "last_commit": "2026-05-18T09:21:28Z",
+                    "open_issues": 0,
                     "owner": "cristianbuse",
                     "repo": "VBA-FastJSON",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 }
@@ -146,12 +236,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The power you need to cleanse, filter, sort, reshape, manage and analyze data from CSV files.",
+                    "homepage": "https://ws-garcia.github.io/VBA-CSV-interface/",
                     "id": 293627158,
                     "language": "VBA",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-12T13:44:01Z",
+                    "open_issues": 0,
                     "owner": "ws-garcia",
                     "repo": "VBA-CSV-interface",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": [
+                      "cleansing-data",
+                      "csv",
+                      "csv-parser",
+                      "csv-reader",
+                      "csv-writer",
+                      "data-management",
+                      "filtering",
+                      "hacktoberfest",
+                      "queries",
+                      "sniffer",
+                      "utf-8",
+                      "vba"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 }
@@ -169,12 +277,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "XML conversion and parsing for VBA",
+                    "homepage": null,
                     "id": 26242489,
                     "language": "Visual Basic",
+                    "license": "MIT",
                     "last_commit": "2022-02-21T02:22:47Z",
+                    "open_issues": 3,
                     "owner": "VBA-tools",
                     "repo": "VBA-XML",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 }
@@ -192,12 +305,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Interact with the component parts of an Excel file",
+                    "homepage": null,
                     "id": 583125311,
                     "language": "VBA",
+                    "license": "MIT",
                     "last_commit": "2026-03-24T12:35:47Z",
+                    "open_issues": 0,
                     "owner": "cristianbuse",
                     "repo": "Excel-ZipTools",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 },
@@ -208,12 +326,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native Windows compression for VBA",
+                    "homepage": null,
                     "id": 996827433,
                     "language": "VBA",
+                    "license": "MIT",
                     "last_commit": "2025-10-24T08:52:54Z",
+                    "open_issues": 0,
                     "owner": "KallunWillock",
                     "repo": "vbaSquash",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 }
@@ -231,12 +354,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VBA code for simple modification of PDF files (read in, combine, write out) with no external libraries",
+                    "homepage": "https://perditionc.github.io/vbaPDF/",
                     "id": 995129879,
                     "language": "VBA",
+                    "license": "MIT",
                     "last_commit": "2025-08-06T18:53:10Z",
+                    "open_issues": 2,
                     "owner": "PerditionC",
                     "repo": "vbaPDF",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "pdf",
+                      "vba",
+                      "vba-excel"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 }
@@ -261,12 +393,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An array class for VBA providing features found in more modern languages",
+                    "homepage": null,
                     "id": 211520963,
                     "language": "VBA",
+                    "license": "MIT",
                     "last_commit": "2026-04-10T08:36:30Z",
+                    "open_issues": 2,
                     "owner": "Senipah",
                     "repo": "VBA-Better-Array",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": [
+                      "array",
+                      "arrays",
+                      "csv",
+                      "excel",
+                      "modern",
+                      "vba"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 }
@@ -284,12 +428,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Drop-in replacement for Scripting.Dictionary on Mac",
+                    "homepage": null,
                     "id": 24106270,
                     "language": "VBA",
+                    "license": "MIT",
                     "last_commit": "2023-04-17T02:57:07Z",
+                    "open_issues": 18,
                     "owner": "VBA-tools",
                     "repo": "VBA-Dictionary",
-                    "stars": 405
+                    "stars": 405,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 },
@@ -300,12 +449,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast Native Dictionary for VBA compatible with Windows and Mac",
+                    "homepage": null,
                     "id": 770931351,
                     "language": "VBA",
+                    "license": "MIT",
                     "last_commit": "2026-02-05T10:47:20Z",
+                    "open_issues": 2,
                     "owner": "cristianbuse",
                     "repo": "VBA-FastDictionary",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 },
@@ -316,12 +470,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dictionary object that extends the Scripting.Dictionary",
+                    "homepage": null,
                     "id": 341044731,
                     "language": "VBA",
+                    "license": "MIT",
                     "last_commit": "2025-05-25T16:17:25Z",
+                    "open_issues": 0,
                     "owner": "SSlinky",
                     "repo": "VBA-ExtendedDictionary",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "vba",
+                      "vba-excel"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
                 }
@@ -344,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object-Based mathematical operations in VBA",
+                "homepage": null,
                 "id": 357567460,
                 "language": "VBA",
+                "license": null,
                 "last_commit": "2025-05-17T14:16:48Z",
+                "open_issues": 4,
                 "owner": "Beakerboy",
                 "repo": "VBA-Math-Objects",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -360,12 +527,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a class module in beta state to implement computations with large integers and reals/rationals numbers, while proposing representation of numerical values as scientific notation, allowing to obtain several cohorts for the same number (a lot of fun!). ",
+                "homepage": null,
                 "id": 569962592,
                 "language": "VBA",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-29T08:58:45Z",
+                "open_issues": 1,
                 "owner": "ws-garcia",
                 "repo": "VBA-float",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "arithmetic",
+                  "biginteger",
+                  "biginteger-library",
+                  "fractional",
+                  "mathematics"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -383,12 +561,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object-based Database Interaction for VBA. Create SQL Statements with VBA objects instead of string concatination.",
+                "homepage": null,
                 "id": 153445610,
                 "language": "VBA",
+                "license": null,
                 "last_commit": "2025-10-16T20:25:48Z",
+                "open_issues": 18,
                 "owner": "Beakerboy",
                 "repo": "VBA-SQL-Library",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "library",
+                  "sql",
+                  "vba-excel"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -399,12 +586,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run DuckDB inside Excel VBA: pandas-style analytics via in-process SQL + native C  bridge. High-speed Range/Array ingestion, Parquet/CSV/JSON I/O.",
+                "homepage": null,
                 "id": 1149531132,
                 "language": "VBA",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-11T22:58:33Z",
+                "open_issues": 0,
                 "owner": "EtienneLenoir",
                 "repo": "duckdb-vba",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "csv",
+                  "dll",
+                  "duckdb",
+                  "duckdb-database",
+                  "embedded-database",
+                  "excel",
+                  "excel-data-analysis",
+                  "json",
+                  "ms-access",
+                  "parquet",
+                  "postgresql",
+                  "postgresql-database",
+                  "sql-query",
+                  "sqlserver",
+                  "vba",
+                  "vba-excel"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -422,12 +631,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A helper dll for VBA users to design modern UI components. No install required!",
+                "homepage": null,
                 "id": 131998941,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-01-28T09:26:56Z",
+                "open_issues": 29,
                 "owner": "krishKM",
                 "repo": "Modern-UI-Components-for-VBA",
-                "stars": 228
+                "stars": 228,
+                "topics": [
+                  "access-ui",
+                  "access-ui-design",
+                  "contextmenu",
+                  "customisation",
+                  "dialog-box",
+                  "dialogbox",
+                  "drag-and-drop",
+                  "modern-dialogbox-access",
+                  "ms-access",
+                  "ms-access-context-menu",
+                  "ms-access-drop-down",
+                  "msaccess-barcode",
+                  "msaccess-vba",
+                  "non-blocking",
+                  "notifications",
+                  "progressbar",
+                  "ui-components",
+                  "ui-components-for-vba",
+                  "vba",
+                  "vba-users"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -438,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use the Mouse Scroll Wheel to scroll VBA UserForms and Controls",
+                "homepage": null,
                 "id": 170578024,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2026-08-05T11:32:33Z",
+                "open_issues": 1,
                 "owner": "cristianbuse",
                 "repo": "VBA-UserForm-MouseScroll",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -454,12 +694,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Model-View-ViewModel Infrastructure for VBA/VB6",
+                "homepage": null,
                 "id": 297156607,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2021-02-02T14:00:32Z",
+                "open_issues": 6,
                 "owner": "rubberduck-vba",
                 "repo": "MVVM",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "hacktoberfest",
+                  "model-view-viewmodel",
+                  "msforms",
+                  "mvvm",
+                  "mvvm-architecture",
+                  "oop",
+                  "vb6",
+                  "vba"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -470,12 +724,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cTaskDialog (TaskDialogIndirect implementation) universally compatible with VB6/VBA7/twinBASIC x86/x64",
+                "homepage": null,
                 "id": 555574954,
                 "language": "Visual Basic 6.0",
+                "license": null,
                 "last_commit": "2026-02-21T04:00:48Z",
+                "open_issues": 3,
                 "owner": "fafalone",
                 "repo": "cTaskDialog64",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "common-controls",
+                  "dialog",
+                  "taskdialog",
+                  "taskdialogindirect",
+                  "twinbasic",
+                  "vb6",
+                  "vb6-source",
+                  "vba",
+                  "vba-access",
+                  "vba-classes",
+                  "vba-excel",
+                  "vba-modules",
+                  "vba-word",
+                  "windows-api"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -486,12 +760,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two Class modules that are used to format a VBA Userform using the material design",
+                "homepage": "https://www.roberttodar.com",
                 "id": 123346286,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2020-08-19T23:06:52Z",
+                "open_issues": 2,
                 "owner": "todar",
                 "repo": "VBA-Material-Design",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "design",
+                  "excel",
+                  "material",
+                  "material-design",
+                  "userforms",
+                  "vba",
+                  "vba-userform"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -502,12 +789,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉 A very easy way to add event listeners to a userform.",
+                "homepage": "https://www.roberttodar.com/",
                 "id": 174034206,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2021-08-17T20:56:20Z",
+                "open_issues": 0,
                 "owner": "todar",
                 "repo": "VBA-Userform-EventListener",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "eventlistener",
+                  "events",
+                  "userform",
+                  "vba"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -518,12 +815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CTrickTimer - the timer class for VB6/VBA compatible with 64 bit office.",
+                "homepage": null,
                 "id": 191251278,
                 "language": "VBA",
+                "license": null,
                 "last_commit": "2020-01-13T06:53:25Z",
+                "open_issues": 3,
                 "owner": "thetrik",
                 "repo": "VbTrickTimer",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -534,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A project to implement Microsoft WebView2 in Excel VBA UserForms.",
+                "homepage": null,
                 "id": 1182574150,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2026-08-28T22:09:29Z",
+                "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -550,12 +857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tB WebView2 Control Wrapper OCX",
+                "homepage": null,
                 "id": 944933166,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-12-05T17:57:48Z",
+                "open_issues": 4,
                 "owner": "fafalone",
                 "repo": "ucWebView2",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -566,12 +878,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to have transitions and animations with Userforms and Userform controls",
+                "homepage": null,
                 "id": 160881859,
                 "language": "Visual Basic",
+                "license": "MIT",
                 "last_commit": "2018-12-18T20:43:22Z",
+                "open_issues": 0,
                 "owner": "todar",
                 "repo": "VBA-Userform-Animations",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "animation",
+                  "transition",
+                  "userforms",
+                  "vba"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -582,12 +904,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple video player UserControl",
+                "homepage": null,
                 "id": 891707487,
                 "language": "Visual Basic 6.0",
+                "license": "MIT",
                 "last_commit": "2025-11-19T09:58:14Z",
+                "open_issues": 2,
                 "owner": "fafalone",
                 "repo": "ucSimplePlayer",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -598,12 +925,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reliable no-crash timer for VBA",
+                "homepage": null,
                 "id": 968116713,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2025-09-24T14:19:56Z",
+                "open_issues": 0,
                 "owner": "cristianbuse",
                 "repo": "VBA-SafeTimer",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -614,12 +946,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ucAniGifEx Animated Gif Control",
+                "homepage": null,
                 "id": 963303579,
                 "language": "Visual Basic 6.0",
+                "license": "MIT",
                 "last_commit": "2025-11-25T01:28:41Z",
+                "open_issues": 0,
                 "owner": "fafalone",
                 "repo": "ucAniGifEx",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "activex-control",
+                  "animated-gif",
+                  "animated-gifs",
+                  "com",
+                  "com-control",
+                  "direct2d",
+                  "gif",
+                  "gif-animation",
+                  "gif-animations",
+                  "gifs",
+                  "twinbasic",
+                  "usercontrol",
+                  "vb6",
+                  "vba",
+                  "wic",
+                  "windows-imaging-component"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -637,12 +991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native memory manipulation in VBA",
+                "homepage": null,
                 "id": 315924464,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2024-05-24T15:21:26Z",
+                "open_issues": 1,
                 "owner": "cristianbuse",
                 "repo": "VBA-MemoryTools",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -653,12 +1012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A class that allows a callback when state is lost",
+                "homepage": null,
                 "id": 588176532,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2024-09-05T10:15:47Z",
+                "open_issues": 3,
                 "owner": "cristianbuse",
                 "repo": "VBA-StateLossCallback",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -669,12 +1033,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1131801967,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-03-08T19:22:40Z",
+                "open_issues": 1,
                 "owner": "Ariche2",
                 "repo": "VBAStack",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -685,12 +1054,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vbInvoke",
+                "homepage": null,
                 "id": 580946575,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2024-03-26T23:01:19Z",
+                "open_issues": 2,
                 "owner": "Greedquest",
                 "repo": "vbInvoke",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -701,12 +1075,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vbInvoke",
+                "homepage": null,
                 "id": 580946575,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2024-03-26T23:01:19Z",
+                "open_issues": 2,
                 "owner": "Greedquest",
                 "repo": "vbInvoke",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -724,12 +1103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A regular expression engine written entirely in VBA",
+                "homepage": null,
                 "id": 833718064,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-06T06:44:44Z",
+                "open_issues": 1,
                 "owner": "sihlfall",
                 "repo": "vba-regex",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -740,12 +1124,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "COM-wrapper of Cloo to execute OpenCL code from VBA/Excel.",
+                "homepage": null,
                 "id": 466799428,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-05-25T08:56:43Z",
+                "open_issues": 0,
                 "owner": "Excel-lent",
                 "repo": "ClooWrapperVBA",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "async",
+                  "async-programming",
+                  "asynchronous-programming",
+                  "excel",
+                  "excel-vba",
+                  "gpu",
+                  "opencl",
+                  "vba",
+                  "vba-excel",
+                  "vbscript"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -756,12 +1156,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PEG parser generator for VB6",
+                "homepage": null,
                 "id": 120297874,
                 "language": "Visual Basic",
+                "license": "MIT",
                 "last_commit": "2019-03-05T14:45:47Z",
+                "open_issues": 5,
                 "owner": "wqweto",
                 "repo": "VbPeg",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "grammar",
+                  "parser",
+                  "parser-generator",
+                  "peg",
+                  "vb6"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -779,12 +1190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VBA-Web: Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web",
+                "homepage": "http://vba-tools.github.io/VBA-Web/",
                 "id": 6379955,
                 "language": "Visual Basic",
+                "license": "MIT",
                 "last_commit": "2024-03-14T10:17:52Z",
+                "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2135
+                "stars": 2135,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -795,12 +1211,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤔 A REST backend built with plain VBA Microsoft Excel macros. Yes. Macros.",
+                "homepage": "https://dev.to/michaelneu/to-vba-and-beyond---building-a-restful-backend-using-plain-microsoft-excel-macros-76n",
                 "id": 103196825,
                 "language": "Visual Basic",
+                "license": "MIT",
                 "last_commit": "2019-10-05T22:11:40Z",
+                "open_issues": 12,
                 "owner": "michaelneu",
                 "repo": "webxcel",
-                "stars": 466
+                "stars": 466,
+                "topics": [
+                  "excel",
+                  "http",
+                  "macros",
+                  "modern-web",
+                  "rest",
+                  "vba",
+                  "vba-excel",
+                  "visual-basic",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -811,12 +1242,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sockets with pure VB6 impl of TLS encryption",
+                "homepage": null,
                 "id": 124236424,
                 "language": "Visual Basic 6.0",
+                "license": "MIT",
                 "last_commit": "2026-08-12T13:13:21Z",
+                "open_issues": 21,
                 "owner": "wqweto",
                 "repo": "VbAsyncSocket",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "aead",
+                  "aes-gcm",
+                  "aes-ni",
+                  "async",
+                  "chacha20-poly1305",
+                  "ecdsa",
+                  "ocsp",
+                  "pbes2",
+                  "pclmulqdq",
+                  "secp256r1",
+                  "ssl",
+                  "tls",
+                  "vb6",
+                  "win98",
+                  "winhttprequest",
+                  "winsock",
+                  "x25519"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -827,12 +1281,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive Selenium wrapper for browser automation developed for MS Office VBA running in Windows",
+                "homepage": null,
                 "id": 472831091,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2026-06-27T17:58:19Z",
+                "open_issues": 5,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "access",
+                  "chrome",
+                  "edge",
+                  "excel",
+                  "firefox",
+                  "selenium",
+                  "twinbasic",
+                  "vba",
+                  "webdriver"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -843,12 +1312,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VBA (Excel) based wrapper for Chrome Developer Protocol (CDP) - sorta a VBA version of Puppeteer/Selenium",
+                "homepage": "https://PerditionC.github.io/VBAChromeDevProtocol/",
                 "id": 453856727,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2023-01-18T17:25:35Z",
+                "open_issues": 9,
                 "owner": "PerditionC",
                 "repo": "VBAChromeDevProtocol",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "automate",
+                  "browser-automation",
+                  "chrome",
+                  "vba",
+                  "vba-macros"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -859,12 +1339,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VBA WebSocket, WSS and TCP client with native TLS 1.2/1.3, MQTT, proxy, x86/x64. No COM, no DLLs, no installs.",
+                "homepage": null,
                 "id": 1225203687,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2026-08-10T05:32:49Z",
+                "open_issues": 1,
                 "owner": "vbacollective",
                 "repo": "wasabi",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "asynchronous",
+                  "excel",
+                  "native",
+                  "office",
+                  "open-source",
+                  "proxy",
+                  "real-time",
+                  "socket",
+                  "ssl",
+                  "tcp",
+                  "tls",
+                  "vb6",
+                  "vba",
+                  "wasabi",
+                  "websocket",
+                  "winsock",
+                  "ws",
+                  "wss",
+                  "x64",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -875,12 +1381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample VB6 and VBA code used for inspiration of syntax/algorithms for usage in the stdVBA library",
+                "homepage": null,
                 "id": 220121798,
                 "language": "Visual Basic 6.0",
+                "license": null,
                 "last_commit": "2026-04-24T17:26:13Z",
+                "open_issues": 0,
                 "owner": "sancarn",
                 "repo": "stdVBA-Inspiration",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -891,12 +1402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VBA Websocket Sample (Echo Server Client)",
+                "homepage": null,
                 "id": 359212841,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2026-05-07T01:03:50Z",
+                "open_issues": 1,
                 "owner": "EagleAglow",
                 "repo": "vba-websocket",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -918,12 +1434,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Export & Import VBA code for use with Git (or any VCS)",
+            "homepage": null,
             "id": 53316794,
             "language": "VBA",
+            "license": "MIT",
             "last_commit": "2022-09-01T07:24:57Z",
+            "open_issues": 13,
             "owner": "spences10",
             "repo": "VBA-IDE-Code-Export",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "developer-ribbon",
+              "microsoft",
+              "vba",
+              "vba-ide",
+              "vba-modules",
+              "vcs",
+              "version-control",
+              "workbook",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -934,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)",
+            "homepage": null,
             "id": 382140323,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-26T20:17:01Z",
+            "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -950,12 +1486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)",
+            "homepage": null,
             "id": 382140323,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-26T20:17:01Z",
+            "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -966,12 +1507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)",
+            "homepage": null,
             "id": 382140323,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-26T20:17:01Z",
+            "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -982,12 +1528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)",
+            "homepage": null,
             "id": 382140323,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-26T20:17:01Z",
+            "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -998,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of how to use the stdVBA library. (🤖 Includes some AI generated examples)",
+            "homepage": null,
             "id": 382140323,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-26T20:17:01Z",
+            "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -1014,12 +1570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure-VBA class that reads, inspects, and exports VBA source code directly from Office binary files",
+            "homepage": null,
             "id": 1189370392,
             "language": "VBA",
+            "license": "MIT",
             "last_commit": "2026-08-15T14:42:18Z",
+            "open_issues": 2,
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -1030,12 +1591,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PEG parser generator for VB6",
+            "homepage": null,
             "id": 120297874,
             "language": "Visual Basic",
+            "license": "MIT",
             "last_commit": "2019-03-05T14:45:47Z",
+            "open_issues": 5,
             "owner": "wqweto",
             "repo": "VbPeg",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "grammar",
+              "parser",
+              "parser-generator",
+              "peg",
+              "vb6"
+            ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         }
@@ -1054,12 +1626,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A method of handling mouse-related events (the MouseWheel) by leveraging the MS InkCollector",
+                "homepage": null,
                 "id": 958219911,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2025-06-09T15:25:48Z",
+                "open_issues": 0,
                 "owner": "KallunWillock",
                 "repo": "EZPZMouseController",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -1077,12 +1654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom built Syntax Highlight tool for Word Documents",
+                "homepage": null,
                 "id": 856031487,
                 "language": "VBA",
+                "license": null,
                 "last_commit": "2024-09-13T19:27:01Z",
+                "open_issues": 0,
                 "owner": "joey-melo",
                 "repo": "vba-syntax-highlight",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -1100,12 +1682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DAW for Microsoft Excel",
+                "homepage": null,
                 "id": 237981751,
                 "language": "VBA",
+                "license": null,
                 "last_commit": "2020-02-04T12:26:44Z",
+                "open_issues": 2,
                 "owner": "DylanTallchiefGit",
                 "repo": "xlStudio",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -1116,12 +1703,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An Object-Oriented VBA experiment",
+                "homepage": null,
                 "id": 147279855,
                 "language": "VBA",
+                "license": "MIT",
                 "last_commit": "2022-10-27T16:09:35Z",
+                "open_issues": 3,
                 "owner": "rubberduck-vba",
                 "repo": "Battleship",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "battleship",
+                  "game",
+                  "hacktoberfest",
+                  "oop",
+                  "polymorphism",
+                  "unit-testing",
+                  "vba"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -1132,12 +1732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Load software onto a Commodore 64 or Commodore Vic-20 retro-computer from a macro-enabled Excel spreadsheet, with the help of an Arduino / clone microcontroller",
+                "homepage": null,
                 "id": 648718620,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-09-15T13:37:01Z",
+                "open_issues": 0,
                 "owner": "raspberrypioneer",
                 "repo": "ExcelCommodroid",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -1148,12 +1753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "M2000 programming language and environment",
+                "homepage": null,
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T21:08:52Z",
+                "open_issues": 0,
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -1175,12 +1785,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.",
+            "homepage": "http://www.decalage.info/python/oletools",
             "id": 59367670,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-14T19:42:44Z",
+            "open_issues": 518,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3406
+            "stars": 3406,
+            "topics": [
+              "compound",
+              "forensics",
+              "macros",
+              "malware-analysis",
+              "ms-office-documents",
+              "ole-files",
+              "olefile",
+              "parser",
+              "pyparsing",
+              "python",
+              "python-library",
+              "rtf",
+              "security",
+              "vba"
+            ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -1191,12 +1821,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VBA and VB6 language extension for VS Code. Also powers syntax highlighting on GitHub.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=serkonda7.vscode-vba",
             "id": 411281029,
             "language": "VBA",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-01T16:41:12Z",
+            "open_issues": 9,
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "snippets",
+              "syntax-highlighting",
+              "vb6",
+              "vba",
+              "visual-basic",
+              "vscode-extension",
+              "winwrap-basic"
+            ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -1207,12 +1850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VBA Language Server",
+            "homepage": null,
             "id": 531760337,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-18T04:00:35Z",
+            "open_issues": 22,
             "owner": "SSlinky",
             "repo": "VBA-LanguageServer",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -1223,12 +1871,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and test VBA-Enabled Office documents from source code using GitHub Actions.",
+            "homepage": null,
             "id": 956214381,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:51:21Z",
+            "open_issues": 8,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "build",
+              "build-tool",
+              "ci-cd",
+              "cicd",
+              "deploy",
+              "deployment",
+              "devops",
+              "office365",
+              "vba"
+            ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         },
@@ -1239,12 +1902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a vbaProject.bin file from VBA source files.",
+            "homepage": null,
             "id": 586912716,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-14T16:41:47Z",
+            "open_issues": 16,
             "owner": "Beakerboy",
             "repo": "MS-OVBA",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
         }
@@ -1263,12 +1931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 298236430,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-04T13:35:46Z",
+                "open_issues": 2,
                 "owner": "Planet-Source-Code",
                 "repo": "PSCIndex",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -1279,12 +1952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A last-ditch attempt to archive the venerable vbAccelerator website, which disappeared in December 2015",
+                "homepage": null,
                 "id": 47978403,
                 "language": "HTML",
+                "license": "CC0-1.0",
                 "last_commit": "2018-07-20T17:07:03Z",
+                "open_issues": 0,
                 "owner": "tannerhelland",
                 "repo": "vbAccelerator-Archive",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -1302,12 +1980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microsoft KnowledgeBase Archive",
+                "homepage": "https://jeffpar.github.io/kbarchive/",
                 "id": 107453293,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-12T00:28:30Z",
+                "open_issues": 4,
                 "owner": "jeffpar",
                 "repo": "kbarchive",
-                "stars": 408
+                "stars": 408,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             }
@@ -1321,15 +2004,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:34:13.946Z",
+    "last_updated": "2026-08-29T04:43:13.369Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
+      "homepage": null,
       "id": 496789368,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-06-01T15:48:15Z",
+      "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 620
+      "stars": 620,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "vb6",
+        "vba",
+        "visual-basic-6",
+        "visual-basic-for-applications"
+      ]
     },
     "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",
     "enhanced_repository": "enhansome/enhansome-vba",

@@ -286,7 +286,7 @@
                     "open_issues": 3,
                     "owner": "VBA-tools",
                     "repo": "VBA-XML",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
@@ -437,7 +437,7 @@
                     "open_issues": 18,
                     "owner": "VBA-tools",
                     "repo": "VBA-Dictionary",
-                    "stars": 405,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1199,7 +1199,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2135,
+                "stars": 2136,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1344,7 +1344,7 @@
                 "id": 1225203687,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-08-10T05:32:49Z",
+                "last_commit": "2026-08-29T14:51:57Z",
                 "open_issues": 1,
                 "owner": "vbacollective",
                 "repo": "wasabi",
@@ -1758,7 +1758,7 @@
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T21:08:52Z",
+                "last_commit": "2026-08-29T19:42:41Z",
                 "open_issues": 0,
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
@@ -1794,7 +1794,7 @@
             "open_issues": 518,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3406,
+            "stars": 3408,
             "topics": [
               "compound",
               "forensics",
@@ -1859,7 +1859,7 @@
             "open_issues": 22,
             "owner": "SSlinky",
             "repo": "VBA-LanguageServer",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1940,7 +1940,7 @@
                 "open_issues": 2,
                 "owner": "Planet-Source-Code",
                 "repo": "PSCIndex",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2004,7 +2004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:13.369Z",
+    "last_updated": "2026-08-29T23:57:22.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

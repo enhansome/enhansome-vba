@@ -536,7 +536,7 @@
                 "archived": false,
                 "id": 1182574150,
                 "language": "VBA",
-                "last_commit": "2026-08-26T16:04:34Z",
+                "last_commit": "2026-08-28T22:09:29Z",
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
                 "stars": 22
@@ -1150,7 +1150,7 @@
                 "archived": false,
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
-                "last_commit": "2026-08-28T00:12:29Z",
+                "last_commit": "2026-08-28T21:08:52Z",
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
                 "stars": 13
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:00:44.087Z",
+    "last_updated": "2026-08-29T03:34:13.946Z",
     "original_repository_info": {
       "archived": false,
       "id": 496789368,

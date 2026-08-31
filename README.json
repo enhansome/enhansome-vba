@@ -300,6 +300,38 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "ZipArchive",
+                  "description": "ZipArchive - A single-class pure VB6 library for zip with ASM speed. Compatible with 32-bit VBA and Twinbasic.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A single-class pure VB6 library for zip with ASM speed",
+                    "homepage": null,
+                    "id": 87326529,
+                    "language": "Visual Basic 6.0",
+                    "license": "MIT-0",
+                    "last_commit": "2025-07-06T13:28:10Z",
+                    "open_issues": 12,
+                    "owner": "wqweto",
+                    "repo": "ZipArchive",
+                    "stars": 68,
+                    "topics": [
+                      "aes",
+                      "asm",
+                      "compress",
+                      "compression",
+                      "vb6",
+                      "winzip",
+                      "zip",
+                      "zip64",
+                      "zipcrypt",
+                      "zlib"
+                    ]
+                  },
+                  "first_seen": "2026-08-31T00:16:58.327Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Excel-ZipTools",
                   "description": "Excel-ZipTools - Parse, read, and extract data from, Zip files. Written in pure vba.",
                   "children": [],
@@ -1098,6 +1130,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SHA256",
+              "description": "SHA256 - A repository of cryptographic primitives implemented in VBx and compatible with VB6, both 32- and 64-bit VBA and TwinBasic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pure VB6 Crypto",
+                "homepage": null,
+                "id": 1338365325,
+                "language": "VBA",
+                "license": "MIT-0",
+                "last_commit": "2026-08-24T12:46:58Z",
+                "open_issues": 0,
+                "owner": "wqweto",
+                "repo": "SHA256",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-31T00:16:58.327Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Encryption"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "vba-regex",
               "description": "vba-regex - A native regex expression parser and runtime engine.",
               "children": [],
@@ -1415,6 +1475,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WebView2 for Excel VBA",
+              "description": "WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A project to implement Microsoft WebView2 in Excel VBA UserForms.",
+                "homepage": null,
+                "id": 1182574150,
+                "language": "VBA",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:09:29Z",
+                "open_issues": 4,
+                "owner": "tarboh",
+                "repo": "WebView2-For-Excel-VBA",
+                "stars": 22,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
             }
           ],
           "description": null,
@@ -1575,8 +1656,8 @@
             "id": 1189370392,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-08-15T14:42:18Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-30T21:58:30Z",
+            "open_issues": 1,
             "owner": "KallunWillock",
             "repo": "vbaXray",
             "stars": 28,
@@ -1647,6 +1728,37 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "MS Access VCS Addin",
+              "description": "MS Access VCS Addin - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Synchronize your Access Forms, Macros, Modules, Queries, Reports, and more with a version control system.",
+                "homepage": null,
+                "id": 35630893,
+                "language": "VBA",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:14:26Z",
+                "open_issues": 106,
+                "owner": "joyfullservice",
+                "repo": "msaccess-vcs-addin",
+                "stars": 354,
+                "topics": [
+                  "addin",
+                  "build-automation",
+                  "database",
+                  "developer-tools",
+                  "github",
+                  "ms-access",
+                  "source-code",
+                  "vba",
+                  "version-control"
+                ]
+              },
+              "first_seen": "2026-08-31T00:16:58.327Z"
+            },
             {
               "node_type": "item",
               "title": "Word VBA Syntax Highlighter",
@@ -1758,7 +1870,7 @@
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T19:42:41Z",
+                "last_commit": "2026-08-30T22:22:04Z",
                 "open_issues": 0,
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
@@ -1915,6 +2027,31 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
+        },
+        {
+          "node_type": "item",
+          "title": "its Github presence provides additional information",
+          "description": "VBE_Colours - A small external utility to configure the colours of the VBE editor. Not open-source, but its Github presence provides additional information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Change the colours used in the Visual Basic Editor",
+            "homepage": "https://www.thevbahelp.com/vbe-colours",
+            "id": 547203555,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-06-16T11:25:58Z",
+            "open_issues": 0,
+            "owner": "john-tvh",
+            "repo": "VBE_Colours",
+            "stars": 3,
+            "topics": [
+              "vba",
+              "vba-ide",
+              "vbe"
+            ]
+          },
+          "first_seen": "2026-08-31T00:16:58.327Z"
         }
       ],
       "title": "External tools"
@@ -2004,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:57:22.367Z",
+    "last_updated": "2026-08-31T00:16:58.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2012,7 +2149,7 @@
       "id": 496789368,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-06-01T15:48:15Z",
+      "last_commit": "2026-08-30T13:26:24Z",
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
@@ -2026,7 +2163,7 @@
         "visual-basic-for-applications"
       ]
     },
-    "original_repository_sha": "fdc62016ce17d14ad98e40f108a384b7a6631049",
+    "original_repository_sha": "4fca731675d4304425d0403cb11b210042eaf0ed",
     "enhanced_repository": "enhansome/enhansome-vba",
     "enhanced_repository_description": null,
     "title": "Awesome VBA with stars"

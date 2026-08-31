@@ -8,35 +8,51 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Contents
 
-* [Library Collections](#library-collections)
-* [Libraries](#libraries)
-  * [Embedded programming languages](#embedded-programming-languages)
-  * [Data Formats (JSON, CSV, XML, etc.)](#data-formats)
-  * [Data Structures (Array-List and Dictionary)](#data-structures)
-  * [Math libraries](#math-libraries)
-  * [Database tools](#database-tools)
-  * [Userform tools](#userform-tools)
-  * [Low level tools](#low-level-tools)
-  * [Parsers / Interpreters](#parsers--interpreters)
-  * [Web tools](#web-tools)
-* [Developer tools](#developer-tools)
-* [Examples](#examples)
-  * [Algorithms, code optimisation, and performance testing](#algorithms-code-optimisation-and-performance-testing)
-  * [UI Ribbon](#ui-ribbon)
-  * [UI Userforms](#ui-userforms)
-  * [Low level examples](#low-level-examples)
-  * [AddIns](#addins)
-  * [Games / Fun projects](#games--fun-projects)
-* [External tools](#external-tools)
-* [Style Guides](#style-guides)
-* [Information](#information)
-* [Resources](#resources)
-  * [Win32 API Resources](#win32-api-resources)
-  * [VB6 / VBScript](#vb6--vbscript)
-  * [Websites](#websites)
-  * [Books](#books)
-  * [YouTube](#youtube)
-  * [Forums](#forums)
+* [Awesome VBA  ](#awesome-vba--)
+  * [Contents](#contents)
+  * [Library Collections](#library-collections)
+  * [Libraries](#libraries)
+    * [Embedded programming languages](#embedded-programming-languages)
+    * [Data Formats](#data-formats)
+      * [JSON](#json)
+      * [CSV](#csv)
+      * [XML](#xml)
+      * [ZIP](#zip)
+      * [PDF](#pdf)
+    * [Data Structures](#data-structures)
+      * [Array-List](#array-list)
+      * [Dictionary](#dictionary)
+    * [Math libraries](#math-libraries)
+    * [Database tools](#database-tools)
+    * [Userform tools](#userform-tools)
+    * [Low level tools](#low-level-tools)
+    * [Encryption](#encryption)
+    * [Parsers / Interpreters](#parsers--interpreters)
+    * [Web tools](#web-tools)
+  * [Developer tools](#developer-tools)
+  * [Examples](#examples)
+    * [Algorithms, code optimisation, and performance testing](#algorithms-code-optimisation-and-performance-testing)
+    * [UI Ribbon](#ui-ribbon)
+    * [UI Userforms](#ui-userforms)
+    * [Low level examples](#low-level-examples)
+    * [AddIns](#addins)
+    * [Games / Fun projects](#games--fun-projects)
+  * [External tools](#external-tools)
+  * [Style Guides](#style-guides)
+  * [Information](#information)
+  * [Resources](#resources)
+    * [Win32 API Resources](#win32-api-resources)
+    * [VB6 / VBScript](#vb6--vbscript)
+    * [Websites](#websites)
+    * [Books](#books)
+    * [YouTube](#youtube)
+    * [Forums](#forums)
+  * [Footnotes](#footnotes)
+    * [Symbology](#symbology)
+      * [Platform Compatibility](#platform-compatibility)
+      * [Application compatibility](#application-compatibility)
+      * [Other important information](#other-important-information)
+  * [Contributing](#contributing)
 
 ***
 
@@ -78,6 +94,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### ZIP
 
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/ZipArchive?style\&logo=github\&label) [ZipArchive](https://github.com/wqweto/ZipArchive) ⭐ 68 | 🐛 12 | 🌐 Visual Basic 6.0 | 📅 2025-07-06 - A single-class pure VB6 library for zip with ASM speed. Compatible with 32-bit VBA and Twinbasic.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/Excel-ZipTools?style\&logo=github\&label) [Excel-ZipTools](https://github.com/cristianbuse/Excel-ZipTools/tree/master) ⭐ 13 | 🐛 0 | 🌐 VBA | 📅 2026-03-24 - Parse, read, and extract data from, Zip files. Written in pure vba.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/vbaSquash?style\&logo=github\&label) [vbaSquash](https://github.com/KallunWillock/vbaSquash/tree/master) ⭐ 4 | 🐛 0 | 🌐 VBA | 📅 2025-10-24 - Compress and decompress files and byte arrays using the built-in `cabinet.dll` functions available on Windows 8+. Provides access to compression algorithms `MSZIP`, `XPRESS`, `XPRESS_HUFF`, and `LZMS`.
 
@@ -157,6 +174,10 @@ Because of the nature of VBA, many libraries do not work on all Operating System
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdCOM` - A one stop shop for COM automation, from invoking interfaces by offsets to extracting type information.
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdReg` - Registry automation from searching to setting values.
 
+### Encryption
+
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/SHA256?style\&logo=github\&label) [SHA256](https://github.com/wqweto/sha256) ⭐ 6 | 🐛 0 | 🌐 VBA | 📅 2026-08-24 - A repository of cryptographic primitives implemented in VBx and compatible with VB6, both 32- and 64-bit VBA and TwinBasic.
+
 ### Parsers / Interpreters
 
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sihlfall/vba-regex?style\&logo=github\&label) [vba-regex](https://github.com/sihlfall/vba-regex) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2025-06-06 - A native regex expression parser and runtime engine.
@@ -174,6 +195,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/vbacollective/wasabi?style\&logo=github\&label) [Wasabi](https://github.com/vbacollective/wasabi) ⭐ 53 | 🐛 1 | 🌐 VBA | 📅 2026-08-29 - Native WebSocket, WSS, MQTT, and raw TCP client for VBA. Pure VBA, single-file, and zero dependencies.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-Inspiration?style\&logo=github\&label) [Edge Automation](https://www.codeproject.com/Tips/5307593/Automate-Chrome-Edge-using-VBA) - Automate Chromium Edge using devtools protocol. [GitHub backup here](https://github.com/sancarn/stdVBA-Inspiration/tree/master/ChromeEdgeAutomation) ⭐ 39 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-04-24.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/EagleAglow/vba-websocket-async?style\&logo=github\&label) [VBA-WebSocket](https://github.com/EagleAglow/vba-websocket) ⭐ 27 | 🐛 1 | 🌐 VBA | 📅 2026-05-07 - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also [a class](https://github.com/EagleAglow/vba-websocket-class) ⭐ 10 | 🐛 1 | 🌐 VBA | 📅 2022-02-13 and an [async version](https://github.com/EagleAglow/vba-websocket-async) ⭐ 9 | 🐛 1 | 🌐 VBA | 📅 2026-05-07 built by the discoverer of the microsoft code.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/tarboh/WebView2-For-Excel-VBA?style\&logo=github\&label) [WebView2 for Excel VBA](https://github.com/tarboh/WebView2-For-Excel-VBA) ⭐ 22 | 🐛 4 | 🌐 VBA | 📅 2026-08-28 – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.
 * From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdHTTP` - Connect to and query web services.
 
@@ -185,7 +207,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style\&logo=github\&label) [Clipboard Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-Clipboard) ⭐ 34 | 🐛 6 | 📅 2026-05-26 - Allows inspection of data held in the clipboard. Useful for reverse engineering clipboard usage in other applications.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style\&logo=github\&label) [Registry Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-Registry) ⭐ 34 | 🐛 6 | 📅 2026-05-26 - Allows inspection of the win32 registry. Equivalent of regedit basically, but implemented entirely in VBA.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style\&logo=github\&label) [JSON Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-JSON) ⭐ 34 | 🐛 6 | 📅 2026-05-26 - An inspector for JSON data, can be called on demand too as a dev tool for inspecting API responses.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/vbaXray?style\&logo=github\&label) [vbaXray](https://github.com/KallunWillock/vbaXray) ⭐ 28 | 🐛 2 | 🌐 VBA | 📅 2026-08-15 - A pure-VBA class that reads, inspects, and exports VBA source code directly from Office binary files
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/vbaXray?style\&logo=github\&label) [vbaXray](https://github.com/KallunWillock/vbaXray) ⭐ 28 | 🐛 1 | 🌐 VBA | 📅 2026-08-30 - A pure-VBA class that reads, inspects, and exports VBA source code directly from Office binary files
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbPeg?style\&logo=github\&label) [VbPeg](https://github.com/wqweto/VbPeg) ⭐ 15 | 🐛 5 | 🌐 Visual Basic | 📅 2019-03-05 - A parser generator for VBA. Converts PEG grammar like [this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg) ⭐ 15 | 🐛 5 | 🌐 Visual Basic | 📅 2019-03-05 into [VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls) ⭐ 15 | 🐛 5 | 🌐 Visual Basic | 📅 2019-03-05. Very useful if you're implementing a new programming language in VBA.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_inst][o_inst]](#-) [Rubberduck](https://rubberduckvba.com/) - An open-source COM add-in project that integrates with the Visual Basic Editor to add modern-day features to the familiar IDE. Works in VBA6, VBA7.x (x86/x64), and yes, in VB6 too!
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![a\_wd][a_wd]](#-) [![o\_pass][o_pass]](#-) - [RibbonX](https://www.andypope.info/vba/ribboneditor_2010.htm) - AndyPope's Visual Ribbon Editor.
@@ -224,6 +246,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 354 | 🐛 106 | 🌐 VBA | 📅 2026-08-28 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
@@ -235,7 +258,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/DylanTallchiefGit/xlStudio?style\&logo=github\&label) [xlStudio](https://github.com/DylanTallchiefGit/xlStudio) ⭐ 278 | 🐛 2 | 🌐 VBA | 📅 2020-02-04 - A DAW for Microsoft Excel. Also check out the awesome [video](https://youtu.be/RFdCM2kHL64).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/rubberduck-vba/Battleship?style\&logo=github\&label) [Battleships](https://github.com/rubberduck-vba/Battleship) ⚠️ Archived
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/raspberrypioneer/ExcelCommodroid?style\&logo=github\&label) [ExcelCommodroid](https://github.com/raspberrypioneer/ExcelCommodroid/tree/main) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2024-09-15 - Commodore computer loader using MS Excel on Windows. VBA7 only.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-)[![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/M2000Interpreter/Environment?style\&logo=github\&label) [M2000Interpreter](https://github.com/M2000Interpreter/Environment) ⭐ 13 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-08-29
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-)[![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/M2000Interpreter/Environment?style\&logo=github\&label) [M2000Interpreter](https://github.com/M2000Interpreter/Environment) ⭐ 13 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-08-30
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Cellivization](https://s0lly.itch.io/cellivization) - A cool RTS-like game created in Excel. Also check out the awesome [video](https://www.youtube.com/watch?v=PzETBRcr_i8).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Arkanoid](http://leandroascierto.com/blog/juego-arkanoid-en-excel/) - Arkanoid, a retro arcade game, built in Excel. On some machines it runs faster than others.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_ac][a_ac]](#-) [Pacman](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame3/?page=Page_11#LXXIV)
@@ -246,7 +269,8 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 64 | 🐛 9 | 🌐 VBA | 📅 2026-07-01 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 58 | 🐛 22 | 🌐 TypeScript | 📅 2025-06-18.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 8 | 🌐 PowerShell | 📅 2026-08-26 - Github action to automatically build a VBA project on commit.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/MS-OVBA?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) ⭐ 28 | 🐛 16 | 🌐 Python | 📅 2026-04-14 - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2024-11-12 made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35) ⭐ 620 | 🐛 17 | 📅 2026-06-01.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/MS-OVBA?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) ⭐ 28 | 🐛 16 | 🌐 Python | 📅 2026-04-14 - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2024-11-12 made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35) ⭐ 620 | 🐛 17 | 📅 2026-08-30.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![o\_dll][o_dll]](#- "Uses an external exe") [VBE\_Colours](https://www.thevbahelp.com/vbe-colours) - A small external utility to configure the colours of the VBE editor. Not open-source, but [its Github presence provides additional information](https://github.com/john-tvh/VBE_Colours) ⭐ 3 | 🐛 0 | 📅 2025-06-16.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_misc][a_misc]](#- "VBA planned but as of 2022-05-27 can only compile to exe") [twinBasic](https://twinbasic.com/) - A VBA compatible parser, evaluator and compiler.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![o\_paid][o_paid]](#- "Will be licensed") [![o\_dll][o_dll]](#- "Uses an external exe") [WinVBA](https://winvba.com/) - A modern IDE for Visual Basic for Applications (VBA) development.
 
@@ -296,6 +320,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![a\_ac][a_ac]](#-) [Isladogs on Access](https://isladogs.co.uk/) - Access + VBA site of Microsoft MVP Colin Riddington. Excellent resource with VBA projects in Access VBA.
 * [![a\_ac][a_ac]](#-) [DevHut](https://www.devhut.net/) - Access + VBA site of Daniel Pineault. Publishes series of deep-dive articles into various uses of VBA. Companion site to Youtube account.
 * [![o\_paid][o_paid]](#- "Various paid content available through the site") [AnalystCave](https://analystcave.com/) - A site dedicated to VBA for analytics.
+* [The VBA Help](https://www.thevbahelp.com/) - A site dedicated to VBA with a large number of instructive blog posts. Written by the author of VBE\_Extras, an AddIn for the VBA IDE and VBE\_Colours, a small utility to configure the available colors used by the VBA IDE.
 
 ### Books
 
@@ -403,4 +428,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

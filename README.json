@@ -46,7 +46,7 @@
             "open_issues": 22,
             "owner": "kellyethridge",
             "repo": "VBCorLib",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "biginteger",
               "collections",
@@ -1311,7 +1311,7 @@
                 "open_issues": 21,
                 "owner": "wqweto",
                 "repo": "VbAsyncSocket",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "aead",
                   "aes-gcm",
@@ -1740,7 +1740,7 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T18:14:26Z",
+                "last_commit": "2026-08-31T16:10:50Z",
                 "open_issues": 106,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
@@ -1870,7 +1870,7 @@
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T22:22:04Z",
+                "last_commit": "2026-08-31T21:32:26Z",
                 "open_issues": 0,
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
@@ -1906,7 +1906,7 @@
             "open_issues": 518,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3408,
+            "stars": 3409,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:16:58.327Z",
+    "last_updated": "2026-09-01T01:05:32.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

@@ -1381,7 +1381,7 @@
                 "open_issues": 9,
                 "owner": "PerditionC",
                 "repo": "VBAChromeDevProtocol",
-                "stars": 75,
+                "stars": 74,
                 "topics": [
                   "automate",
                   "browser-automation",
@@ -1656,11 +1656,11 @@
             "id": 1189370392,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-08-30T21:58:30Z",
+            "last_commit": "2026-09-01T17:05:05Z",
             "open_issues": 1,
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1741,7 +1741,7 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T16:10:50Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 354,
@@ -1870,7 +1870,7 @@
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T21:32:26Z",
+                "last_commit": "2026-09-01T22:01:31Z",
                 "open_issues": 0,
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
@@ -1938,8 +1938,8 @@
             "id": 411281029,
             "language": "VBA",
             "license": "MPL-2.0",
-            "last_commit": "2026-07-01T16:41:12Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-01T08:45:05Z",
+            "open_issues": 10,
             "owner": "serkonda7",
             "repo": "vscode-vba",
             "stars": 64,
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:05:32.296Z",
+    "last_updated": "2026-09-01T23:52:48.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

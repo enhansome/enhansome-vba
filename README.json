@@ -1740,7 +1740,7 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T16:10:50Z",
+                "last_commit": "2026-09-02T17:31:54Z",
                 "open_issues": 107,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:52:48.590Z",
+    "last_updated": "2026-09-02T23:54:46.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

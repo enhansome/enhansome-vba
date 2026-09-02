@@ -246,7 +246,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 354 | 🐛 107 | 🌐 VBA | 📅 2026-08-31 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 354 | 🐛 107 | 🌐 VBA | 📅 2026-09-02 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
@@ -428,4 +428,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

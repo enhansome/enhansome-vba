@@ -1311,7 +1311,7 @@
                 "open_issues": 21,
                 "owner": "wqweto",
                 "repo": "VbAsyncSocket",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "aead",
                   "aes-gcm",
@@ -1408,7 +1408,7 @@
                 "open_issues": 1,
                 "owner": "vbacollective",
                 "repo": "wasabi",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "asynchronous",
                   "excel",
@@ -1741,10 +1741,10 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T17:31:54Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 354,
+                "stars": 353,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1942,7 +1942,7 @@
             "open_issues": 10,
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "snippets",
               "syntax-highlighting",
@@ -1971,7 +1971,7 @@
             "open_issues": 22,
             "owner": "SSlinky",
             "repo": "VBA-LanguageServer",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:54:46.643Z",
+    "last_updated": "2026-09-03T23:51:19.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

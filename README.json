@@ -672,7 +672,7 @@
                 "open_issues": 29,
                 "owner": "krishKM",
                 "repo": "Modern-UI-Components-for-VBA",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "access-ui",
                   "access-ui-design",
@@ -877,7 +877,7 @@
                 "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1280,7 +1280,7 @@
                 "open_issues": 12,
                 "owner": "michaelneu",
                 "repo": "webxcel",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "excel",
                   "http",
@@ -1492,7 +1492,7 @@
                 "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1740,8 +1740,8 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T17:31:54Z",
-                "open_issues": 110,
+                "last_commit": "2026-09-05T14:58:33Z",
+                "open_issues": 111,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 353,
@@ -1906,7 +1906,7 @@
             "open_issues": 518,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3410,
+            "stars": 3412,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:48:41.497Z",
+    "last_updated": "2026-09-05T23:37:57.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 620,
+      "stars": 621,
       "topics": [
         "awesome",
         "awesome-list",

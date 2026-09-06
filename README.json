@@ -1660,7 +1660,7 @@
             "open_issues": 1,
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1870,11 +1870,11 @@
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T22:01:31Z",
+                "last_commit": "2026-09-06T00:51:03Z",
                 "open_issues": 0,
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:37:57.101Z",
+    "last_updated": "2026-09-06T23:36:38.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 621,
+      "stars": 622,
       "topics": [
         "awesome",
         "awesome-list",

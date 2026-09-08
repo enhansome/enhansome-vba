@@ -714,7 +714,7 @@
                 "open_issues": 1,
                 "owner": "cristianbuse",
                 "repo": "VBA-UserForm-MouseScroll",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1740,11 +1740,11 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T19:27:39Z",
-                "open_issues": 109,
+                "last_commit": "2026-09-08T15:26:53Z",
+                "open_issues": 106,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1988,8 +1988,8 @@
             "id": 956214381,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-07T22:43:26Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-08T22:47:46Z",
+            "open_issues": 8,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
             "stars": 31,
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:03:51.448Z",
+    "last_updated": "2026-09-08T23:56:15.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

@@ -1740,8 +1740,8 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T19:04:21Z",
-                "open_issues": 106,
+                "last_commit": "2026-09-10T15:32:44Z",
+                "open_issues": 105,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 356,
@@ -1906,7 +1906,7 @@
             "open_issues": 518,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3412,
+            "stars": 3413,
             "topics": [
               "compound",
               "forensics",
@@ -1988,7 +1988,7 @@
             "id": 956214381,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-09T03:56:20Z",
+            "last_commit": "2026-09-10T21:52:24Z",
             "open_issues": 5,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:54:33.200Z",
+    "last_updated": "2026-09-10T23:50:33.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 622,
+      "stars": 623,
       "topics": [
         "awesome",
         "awesome-list",

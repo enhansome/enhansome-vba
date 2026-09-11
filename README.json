@@ -314,7 +314,7 @@
                     "open_issues": 12,
                     "owner": "wqweto",
                     "repo": "ZipArchive",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": [
                       "aes",
                       "asm",
@@ -490,7 +490,7 @@
                     "open_issues": 2,
                     "owner": "cristianbuse",
                     "repo": "VBA-FastDictionary",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
@@ -602,7 +602,7 @@
                 "open_issues": 18,
                 "owner": "Beakerboy",
                 "repo": "VBA-SQL-Library",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "library",
                   "sql",
@@ -1172,7 +1172,7 @@
                 "open_issues": 1,
                 "owner": "sihlfall",
                 "repo": "vba-regex",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 5,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 135,
+                "stars": 137,
                 "topics": [
                   "access",
                   "chrome",
@@ -1551,7 +1551,7 @@
             "id": 382140323,
             "language": null,
             "license": null,
-            "last_commit": "2026-05-26T20:17:01Z",
+            "last_commit": "2026-09-11T19:36:05Z",
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
@@ -1572,7 +1572,7 @@
             "id": 382140323,
             "language": null,
             "license": null,
-            "last_commit": "2026-05-26T20:17:01Z",
+            "last_commit": "2026-09-11T19:36:05Z",
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
@@ -1593,7 +1593,7 @@
             "id": 382140323,
             "language": null,
             "license": null,
-            "last_commit": "2026-05-26T20:17:01Z",
+            "last_commit": "2026-09-11T19:36:05Z",
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
@@ -1614,7 +1614,7 @@
             "id": 382140323,
             "language": null,
             "license": null,
-            "last_commit": "2026-05-26T20:17:01Z",
+            "last_commit": "2026-09-11T19:36:05Z",
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
@@ -1635,7 +1635,7 @@
             "id": 382140323,
             "language": null,
             "license": null,
-            "last_commit": "2026-05-26T20:17:01Z",
+            "last_commit": "2026-09-11T19:36:05Z",
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
@@ -1740,8 +1740,8 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T15:32:44Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-11T21:28:20Z",
+                "open_issues": 107,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 356,
@@ -1870,7 +1870,7 @@
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T18:43:21Z",
+                "last_commit": "2026-09-11T05:56:50Z",
                 "open_issues": 0,
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
@@ -1906,7 +1906,7 @@
             "open_issues": 518,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3413,
+            "stars": 3414,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:50:33.937Z",
+    "last_updated": "2026-09-11T23:58:28.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 623,
+      "stars": 624,
       "topics": [
         "awesome",
         "awesome-list",

@@ -246,7 +246,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 356 | 🐛 107 | 🌐 VBA | 📅 2026-09-15 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 356 | 🐛 111 | 🌐 VBA | 📅 2026-09-16 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
@@ -255,7 +255,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Games / Fun projects
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/DylanTallchiefGit/xlStudio?style\&logo=github\&label) [xlStudio](https://github.com/DylanTallchiefGit/xlStudio) ⭐ 278 | 🐛 2 | 🌐 VBA | 📅 2020-02-04 - A DAW for Microsoft Excel. Also check out the awesome [video](https://youtu.be/RFdCM2kHL64).
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/DylanTallchiefGit/xlStudio?style\&logo=github\&label) [xlStudio](https://github.com/DylanTallchiefGit/xlStudio) ⭐ 277 | 🐛 2 | 🌐 VBA | 📅 2020-02-04 - A DAW for Microsoft Excel. Also check out the awesome [video](https://youtu.be/RFdCM2kHL64).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/rubberduck-vba/Battleship?style\&logo=github\&label) [Battleships](https://github.com/rubberduck-vba/Battleship) ⚠️ Archived
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/raspberrypioneer/ExcelCommodroid?style\&logo=github\&label) [ExcelCommodroid](https://github.com/raspberrypioneer/ExcelCommodroid/tree/main) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2024-09-15 - Commodore computer loader using MS Excel on Windows. VBA7 only.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-)[![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/M2000Interpreter/Environment?style\&logo=github\&label) [M2000Interpreter](https://github.com/M2000Interpreter/Environment) ⭐ 14 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-09-12
@@ -265,7 +265,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## External tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,413 | 🐛 518 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,414 | 🐛 518 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 65 | 🐛 10 | 🌐 VBA | 📅 2026-09-01 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 59 | 🐛 22 | 🌐 TypeScript | 📅 2025-06-18.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 5 | 🌐 PowerShell | 📅 2026-09-10 - Github action to automatically build a VBA project on commit.
@@ -428,4 +428,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

@@ -1740,8 +1740,8 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T18:56:19Z",
-                "open_issues": 107,
+                "last_commit": "2026-09-16T19:04:19Z",
+                "open_issues": 111,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 356,
@@ -1803,7 +1803,7 @@
                 "open_issues": 2,
                 "owner": "DylanTallchiefGit",
                 "repo": "xlStudio",
-                "stars": 278,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1906,7 +1906,7 @@
             "open_issues": 518,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3413,
+            "stars": 3414,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:02:45.646Z",
+    "last_updated": "2026-09-17T00:12:20.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "macros",
               "microsoft",
@@ -672,7 +672,7 @@
                 "open_issues": 29,
                 "owner": "krishKM",
                 "repo": "Modern-UI-Components-for-VBA",
-                "stars": 229,
+                "stars": 230,
                 "topics": [
                   "access-ui",
                   "access-ui-design",
@@ -1259,7 +1259,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2135,
+                "stars": 2136,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 5,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "access",
                   "chrome",
@@ -1906,7 +1906,7 @@
             "open_issues": 518,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3417,
+            "stars": 3418,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:59:20.658Z",
+    "last_updated": "2026-09-19T23:57:49.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

@@ -1903,7 +1903,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-02-14T19:42:44Z",
-            "open_issues": 518,
+            "open_issues": 519,
             "owner": "decalage2",
             "repo": "oletools",
             "stars": 3418,
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:57:49.203Z",
+    "last_updated": "2026-09-20T23:57:30.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

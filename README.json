@@ -627,7 +627,7 @@
                 "open_issues": 0,
                 "owner": "EtienneLenoir",
                 "repo": "duckdb-vba",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "csv",
                   "dll",
@@ -1408,7 +1408,7 @@
                 "open_issues": 1,
                 "owner": "vbacollective",
                 "repo": "wasabi",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "asynchronous",
                   "excel",
@@ -1744,7 +1744,7 @@
                 "open_issues": 112,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:57:30.905Z",
+    "last_updated": "2026-09-22T00:38:52.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

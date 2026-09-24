@@ -627,7 +627,7 @@
                 "open_issues": 0,
                 "owner": "EtienneLenoir",
                 "repo": "duckdb-vba",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "csv",
                   "dll",
@@ -765,7 +765,7 @@
                 "open_issues": 3,
                 "owner": "fafalone",
                 "repo": "cTaskDialog64",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "common-controls",
                   "dialog",
@@ -1744,7 +1744,7 @@
                 "open_issues": 113,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1906,7 +1906,7 @@
             "open_issues": 519,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3418,
+            "stars": 3417,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:08:20.268Z",
+    "last_updated": "2026-09-24T00:18:12.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 624,
+      "stars": 625,
       "topics": [
         "awesome",
         "awesome-list",

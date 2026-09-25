@@ -1280,7 +1280,7 @@
                 "open_issues": 12,
                 "owner": "michaelneu",
                 "repo": "webxcel",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "excel",
                   "http",
@@ -1744,7 +1744,7 @@
                 "open_issues": 113,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 360,
+                "stars": 361,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1906,7 +1906,7 @@
             "open_issues": 519,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3417,
+            "stars": 3418,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:18:12.406Z",
+    "last_updated": "2026-09-25T00:20:44.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

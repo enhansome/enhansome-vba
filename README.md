@@ -58,7 +58,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Library Collections
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 410 | 🐛 45 | 🌐 VBA | 📅 2026-05-15 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 411 | 🐛 45 | 🌐 VBA | 📅 2026-05-15 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 136 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
 
@@ -265,7 +265,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## External tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,418 | 🐛 519 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,420 | 🐛 519 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 65 | 🐛 10 | 🌐 VBA | 📅 2026-09-01 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 59 | 🐛 22 | 🌐 TypeScript | 📅 2025-06-18.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 5 | 🌐 PowerShell | 📅 2026-09-10 - Github action to automatically build a VBA project on commit.
@@ -298,7 +298,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### VB6 / VBScript
 
-* [Planet Source Code](https://github.com/Planet-Source-Code/PSCIndex) ⭐ 139 | 🐛 2 | 📅 2022-12-04 - A code repository GitHub which holds copious amounts of code. The site was closed down in 2023, but fortunately all VBA/VB6 samples were archived on GitHub today. Possibly not the entire collection (?) of projects/source code that was previously available at the PSC website.
+* [Planet Source Code](https://github.com/Planet-Source-Code/PSCIndex) ⭐ 140 | 🐛 2 | 📅 2022-12-04 - A code repository GitHub which holds copious amounts of code. The site was closed down in 2023, but fortunately all VBA/VB6 samples were archived on GitHub today. Possibly not the entire collection (?) of projects/source code that was previously available at the PSC website.
 * [vbAccelerator Archive](https://github.com/tannerhelland/vbAccelerator-Archive) ⭐ 97 | 🐛 0 | 🌐 HTML | 📅 2018-07-20 - Archived copy of vbAccelerator site (articles, source code, etc.) that disappeared in 2015, reappeared in 2018, and anyone's guess what's going to next… Primarily VB6, but useful VBA resource.
 
 ### Websites
@@ -428,4 +428,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

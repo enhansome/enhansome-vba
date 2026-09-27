@@ -765,7 +765,7 @@
                 "open_issues": 3,
                 "owner": "fafalone",
                 "repo": "cTaskDialog64",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "common-controls",
                   "dialog",
@@ -1744,7 +1744,7 @@
                 "open_issues": 113,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 361,
+                "stars": 363,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1903,10 +1903,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-02-14T19:42:44Z",
-            "open_issues": 519,
+            "open_issues": 520,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3420,
+            "stars": 3421,
             "topics": [
               "compound",
               "forensics",
@@ -1971,7 +1971,7 @@
             "open_issues": 22,
             "owner": "SSlinky",
             "repo": "VBA-LanguageServer",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:25:49.800Z",
+    "last_updated": "2026-09-27T00:20:52.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

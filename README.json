@@ -1744,7 +1744,7 @@
                 "open_issues": 113,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1903,7 +1903,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-02-14T19:42:44Z",
-            "open_issues": 520,
+            "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
             "stars": 3422,
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:24:11.429Z",
+    "last_updated": "2026-09-29T01:35:48.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 626,
+      "stars": 627,
       "topics": [
         "awesome",
         "awesome-list",

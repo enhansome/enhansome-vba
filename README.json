@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "macros",
               "microsoft",
@@ -877,7 +877,7 @@
                 "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1140,7 +1140,7 @@
                 "id": 1338365325,
                 "language": "VBA",
                 "license": "MIT-0",
-                "last_commit": "2026-08-24T12:46:58Z",
+                "last_commit": "2026-09-30T16:11:00Z",
                 "open_issues": 0,
                 "owner": "wqweto",
                 "repo": "SHA256",
@@ -1492,7 +1492,7 @@
                 "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1988,7 +1988,7 @@
             "id": 956214381,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:52:24Z",
+            "last_commit": "2026-09-30T21:02:38Z",
             "open_issues": 5,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:09:18.700Z",
+    "last_updated": "2026-10-01T01:08:50.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

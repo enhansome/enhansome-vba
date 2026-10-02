@@ -1140,7 +1140,7 @@
                 "id": 1338365325,
                 "language": "VBA",
                 "license": "MIT-0",
-                "last_commit": "2026-09-30T16:11:00Z",
+                "last_commit": "2026-10-01T11:36:57Z",
                 "open_issues": 0,
                 "owner": "wqweto",
                 "repo": "SHA256",
@@ -1740,11 +1740,11 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T16:05:41Z",
-                "open_issues": 119,
+                "last_commit": "2026-10-01T13:58:34Z",
+                "open_issues": 117,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1803,7 +1803,7 @@
                 "open_issues": 2,
                 "owner": "DylanTallchiefGit",
                 "repo": "xlStudio",
-                "stars": 277,
+                "stars": 278,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1938,8 +1938,8 @@
             "id": 411281029,
             "language": "VBA",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-01T08:45:05Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-01T08:45:31Z",
+            "open_issues": 12,
             "owner": "serkonda7",
             "repo": "vscode-vba",
             "stars": 65,
@@ -2077,7 +2077,7 @@
                 "open_issues": 2,
                 "owner": "Planet-Source-Code",
                 "repo": "PSCIndex",
-                "stars": 140,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:08:50.188Z",
+    "last_updated": "2026-10-02T01:24:39.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

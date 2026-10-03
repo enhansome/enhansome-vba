@@ -15,7 +15,7 @@
             "id": 164031037,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-05-15T11:38:31Z",
+            "last_commit": "2026-10-02T14:41:32Z",
             "open_issues": 45,
             "owner": "sancarn",
             "repo": "stdVBA",
@@ -765,7 +765,7 @@
                 "open_issues": 3,
                 "owner": "fafalone",
                 "repo": "cTaskDialog64",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "common-controls",
                   "dialog",
@@ -1657,7 +1657,7 @@
             "language": "VBA",
             "license": "MIT",
             "last_commit": "2026-09-01T17:05:05Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "KallunWillock",
             "repo": "vbaXray",
             "stars": 30,
@@ -1906,7 +1906,7 @@
             "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3422,
+            "stars": 3423,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:24:39.489Z",
+    "last_updated": "2026-10-03T00:59:40.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

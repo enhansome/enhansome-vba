@@ -265,10 +265,10 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## External tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,423 | 🐛 521 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,425 | 🐛 521 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 65 | 🐛 12 | 🌐 VBA | 📅 2026-10-01 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 60 | 🐛 22 | 🌐 TypeScript | 📅 2025-06-18.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 5 | 🌐 PowerShell | 📅 2026-09-30 - Github action to automatically build a VBA project on commit.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 5 | 🌐 PowerShell | 📅 2026-10-03 - Github action to automatically build a VBA project on commit.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/MS-OVBA?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) ⭐ 28 | 🐛 16 | 🌐 Python | 📅 2026-04-14 - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2024-11-12 made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![o\_dll][o_dll]](#- "Uses an external exe") [VBE\_Colours](https://www.thevbahelp.com/vbe-colours) - A small external utility to configure the colours of the VBE editor. Not open-source, but [its Github presence provides additional information](https://github.com/john-tvh/VBE_Colours) ⭐ 3 | 🐛 0 | 📅 2025-06-16.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_misc][a_misc]](#- "VBA planned but as of 2022-05-27 can only compile to exe") [twinBasic](https://twinbasic.com/) - A VBA compatible parser, evaluator and compiler.
@@ -428,4 +428,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

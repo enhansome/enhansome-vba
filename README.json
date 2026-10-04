@@ -1906,7 +1906,7 @@
             "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3423,
+            "stars": 3425,
             "topics": [
               "compound",
               "forensics",
@@ -1988,7 +1988,7 @@
             "id": 956214381,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-30T21:02:38Z",
+            "last_commit": "2026-10-03T21:08:33Z",
             "open_issues": 5,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:11:23.906Z",
+    "last_updated": "2026-10-04T00:23:59.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 628,
+      "stars": 629,
       "topics": [
         "awesome",
         "awesome-list",

@@ -469,7 +469,7 @@
                     "open_issues": 18,
                     "owner": "VBA-tools",
                     "repo": "VBA-Dictionary",
-                    "stars": 406,
+                    "stars": 407,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1144,7 +1144,7 @@
                 "open_issues": 0,
                 "owner": "wqweto",
                 "repo": "SHA256",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-31T00:16:58.327Z"
@@ -1988,7 +1988,7 @@
             "id": 956214381,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-03T21:08:33Z",
+            "last_commit": "2026-10-04T21:49:33Z",
             "open_issues": 5,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:23:59.615Z",
+    "last_updated": "2026-10-05T00:33:50.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 629,
+      "stars": 631,
       "topics": [
         "awesome",
         "awesome-list",

@@ -1259,7 +1259,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2077,7 +2077,7 @@
                 "open_issues": 2,
                 "owner": "Planet-Source-Code",
                 "repo": "PSCIndex",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:07:21.357Z",
+    "last_updated": "2026-10-06T10:56:49.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

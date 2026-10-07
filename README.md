@@ -58,7 +58,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Library Collections
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 412 | 🐛 45 | 🌐 VBA | 📅 2026-10-02 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 413 | 🐛 45 | 🌐 VBA | 📅 2026-10-02 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 136 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
 
@@ -96,7 +96,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/ZipArchive?style\&logo=github\&label) [ZipArchive](https://github.com/wqweto/ZipArchive) ⭐ 69 | 🐛 12 | 🌐 Visual Basic 6.0 | 📅 2025-07-06 - A single-class pure VB6 library for zip with ASM speed. Compatible with 32-bit VBA and Twinbasic.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/Excel-ZipTools?style\&logo=github\&label) [Excel-ZipTools](https://github.com/cristianbuse/Excel-ZipTools/tree/master) ⭐ 13 | 🐛 0 | 🌐 VBA | 📅 2026-03-24 - Parse, read, and extract data from, Zip files. Written in pure vba.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/vbaSquash?style\&logo=github\&label) [vbaSquash](https://github.com/KallunWillock/vbaSquash/tree/master) ⭐ 4 | 🐛 0 | 🌐 VBA | 📅 2025-10-24 - Compress and decompress files and byte arrays using the built-in `cabinet.dll` functions available on Windows 8+. Provides access to compression algorithms `MSZIP`, `XPRESS`, `XPRESS_HUFF`, and `LZMS`.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/vbaSquash?style\&logo=github\&label) [vbaSquash](https://github.com/KallunWillock/vbaSquash/tree/master) ⭐ 4 | 🐛 0 | 🌐 VBA | 📅 2026-10-06 - Compress and decompress files and byte arrays using the built-in `cabinet.dll` functions available on Windows 8+. Provides access to compression algorithms `MSZIP`, `XPRESS`, `XPRESS_HUFF`, and `LZMS`.
 
 #### PDF
 
@@ -246,7 +246,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 367 | 🐛 121 | 🌐 VBA | 📅 2026-10-01 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 367 | 🐛 123 | 🌐 VBA | 📅 2026-10-01 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
@@ -428,4 +428,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

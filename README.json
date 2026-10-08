@@ -710,8 +710,8 @@
                 "id": 170578024,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-08-05T11:32:33Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-07T11:25:26Z",
+                "open_issues": 0,
                 "owner": "cristianbuse",
                 "repo": "VBA-UserForm-MouseScroll",
                 "stars": 110,
@@ -1259,7 +1259,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2137,
+                "stars": 2136,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1280,7 +1280,7 @@
                 "open_issues": 12,
                 "owner": "michaelneu",
                 "repo": "webxcel",
-                "stars": 468,
+                "stars": 467,
                 "topics": [
                   "excel",
                   "http",
@@ -1741,7 +1741,7 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T13:58:34Z",
-                "open_issues": 123,
+                "open_issues": 127,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 367,
@@ -1803,7 +1803,7 @@
                 "open_issues": 2,
                 "owner": "DylanTallchiefGit",
                 "repo": "xlStudio",
-                "stars": 278,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:15:48.773Z",
+    "last_updated": "2026-10-08T01:37:06.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

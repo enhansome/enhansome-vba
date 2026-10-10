@@ -1259,7 +1259,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2137,
+                "stars": 2136,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1740,7 +1740,7 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T13:58:34Z",
+                "last_commit": "2026-10-09T15:28:37Z",
                 "open_issues": 128,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
@@ -1906,7 +1906,7 @@
             "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3427,
+            "stars": 3428,
             "topics": [
               "compound",
               "forensics",
@@ -2020,7 +2020,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-04-14T16:41:47Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Beakerboy",
             "repo": "MS-OVBA",
             "stars": 28,
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:49:56.625Z",
+    "last_updated": "2026-10-10T01:35:32.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

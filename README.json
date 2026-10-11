@@ -1169,7 +1169,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-06-06T06:44:44Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "sihlfall",
                 "repo": "vba-regex",
                 "stars": 23,
@@ -1350,7 +1350,7 @@
                 "open_issues": 5,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "access",
                   "chrome",
@@ -1408,7 +1408,7 @@
                 "open_issues": 1,
                 "owner": "vbacollective",
                 "repo": "wasabi",
-                "stars": 56,
+                "stars": 55,
                 "topics": [
                   "asynchronous",
                   "excel",
@@ -1744,7 +1744,7 @@
                 "open_issues": 128,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1942,7 +1942,7 @@
             "open_issues": 12,
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "snippets",
               "syntax-highlighting",
@@ -1988,7 +1988,7 @@
             "id": 956214381,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-04T21:49:33Z",
+            "last_commit": "2026-10-10T15:15:05Z",
             "open_issues": 5,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
@@ -2098,7 +2098,7 @@
                 "open_issues": 0,
                 "owner": "tannerhelland",
                 "repo": "vbAccelerator-Archive",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2126,7 +2126,7 @@
                 "open_issues": 4,
                 "owner": "jeffpar",
                 "repo": "kbarchive",
-                "stars": 408,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:35:32.016Z",
+    "last_updated": "2026-10-11T00:44:15.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

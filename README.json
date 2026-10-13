@@ -1906,7 +1906,7 @@
             "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3428,
+            "stars": 3429,
             "topics": [
               "compound",
               "forensics",
@@ -1938,8 +1938,8 @@
             "id": 411281029,
             "language": "VBA",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-01T08:45:31Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-12T20:04:15Z",
+            "open_issues": 9,
             "owner": "serkonda7",
             "repo": "vscode-vba",
             "stars": 66,
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:05:16.354Z",
+    "last_updated": "2026-10-13T02:54:37.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

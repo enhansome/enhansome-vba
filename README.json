@@ -877,7 +877,7 @@
                 "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1169,7 +1169,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-06-06T06:44:44Z",
-                "open_issues": 4,
+                "open_issues": 8,
                 "owner": "sihlfall",
                 "repo": "vba-regex",
                 "stars": 24,
@@ -1259,7 +1259,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2136,
+                "stars": 2135,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1457,6 +1457,27 @@
             },
             {
               "node_type": "item",
+              "title": "WebView2 for Excel VBA",
+              "description": "WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A project to implement Microsoft WebView2 in Excel VBA UserForms.",
+                "homepage": null,
+                "id": 1182574150,
+                "language": "VBA",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:09:29Z",
+                "open_issues": 4,
+                "owner": "tarboh",
+                "repo": "WebView2-For-Excel-VBA",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
+            },
+            {
+              "node_type": "item",
               "title": "VBA-WebSocket",
               "description": "VBA-WebSocket - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also a class and an async version built by the discoverer of the microsoft code.",
               "children": [],
@@ -1472,27 +1493,6 @@
                 "owner": "EagleAglow",
                 "repo": "vba-websocket",
                 "stars": 27,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:00:44.087Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WebView2 for Excel VBA",
-              "description": "WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A project to implement Microsoft WebView2 in Excel VBA UserForms.",
-                "homepage": null,
-                "id": 1182574150,
-                "language": "VBA",
-                "license": "MIT",
-                "last_commit": "2026-08-28T22:09:29Z",
-                "open_issues": 4,
-                "owner": "tarboh",
-                "repo": "WebView2-For-Excel-VBA",
-                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1741,10 +1741,10 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:28:37Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1906,7 +1906,7 @@
             "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3429,
+            "stars": 3430,
             "topics": [
               "compound",
               "forensics",
@@ -1988,7 +1988,7 @@
             "id": 956214381,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-10T15:15:05Z",
+            "last_commit": "2026-10-13T11:13:56Z",
             "open_issues": 5,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:54:37.731Z",
+    "last_updated": "2026-10-14T00:57:54.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

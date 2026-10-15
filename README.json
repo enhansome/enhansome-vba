@@ -1744,7 +1744,7 @@
                 "open_issues": 129,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:57:54.638Z",
+    "last_updated": "2026-10-15T00:19:59.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

@@ -1350,7 +1350,7 @@
                 "open_issues": 5,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "access",
                   "chrome",
@@ -1408,7 +1408,7 @@
                 "open_issues": 1,
                 "owner": "vbacollective",
                 "repo": "wasabi",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "asynchronous",
                   "excel",
@@ -1660,7 +1660,7 @@
             "open_issues": 0,
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:09:08.539Z",
+    "last_updated": "2026-10-17T00:12:34.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 633,
+      "stars": 634,
       "topics": [
         "awesome",
         "awesome-list",

@@ -877,7 +877,7 @@
                 "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1259,7 +1259,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2135,
+                "stars": 2136,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 5,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "access",
                   "chrome",
@@ -1471,7 +1471,7 @@
                 "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1741,7 +1741,7 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:28:37Z",
-                "open_issues": 129,
+                "open_issues": 101,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 370,
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:12:34.071Z",
+    "last_updated": "2026-10-17T23:51:24.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

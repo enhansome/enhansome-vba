@@ -46,7 +46,7 @@
             "open_issues": 22,
             "owner": "kellyethridge",
             "repo": "VBCorLib",
-            "stars": 136,
+            "stars": 137,
             "topics": [
               "biginteger",
               "collections",
@@ -1741,7 +1741,7 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:28:37Z",
-                "open_issues": 101,
+                "open_issues": 100,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 370,
@@ -1906,7 +1906,7 @@
             "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3432,
+            "stars": 3434,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:51:24.547Z",
+    "last_updated": "2026-10-18T23:59:18.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 17,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 634,
+      "stars": 635,
       "topics": [
         "awesome",
         "awesome-list",

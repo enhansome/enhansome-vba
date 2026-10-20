@@ -490,7 +490,7 @@
                     "open_issues": 2,
                     "owner": "cristianbuse",
                     "repo": "VBA-FastDictionary",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1660,7 +1660,7 @@
             "open_issues": 0,
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1741,10 +1741,10 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:28:37Z",
-                "open_issues": 100,
+                "open_issues": 101,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -1906,7 +1906,7 @@
             "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3434,
+            "stars": 3435,
             "topics": [
               "compound",
               "forensics",
@@ -2023,7 +2023,7 @@
             "open_issues": 17,
             "owner": "Beakerboy",
             "repo": "MS-OVBA",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T23:59:18.955Z",
+    "last_updated": "2026-10-20T00:57:44.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

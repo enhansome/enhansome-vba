@@ -58,7 +58,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Library Collections
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 413 | 🐛 45 | 🌐 VBA | 📅 2026-10-02 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 413 | 🐛 46 | 🌐 VBA | 📅 2026-10-02 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 137 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
 
@@ -193,7 +193,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GCuser99/SeleniumVBA?style\&logo=github\&label) [SeleniumVBA](https://github.com/GCuser99/SeleniumVBA) ⭐ 141 | 🐛 5 | 🌐 VBA | 📅 2026-06-27 - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/PerditionC/VBAChromeDevProtocol?style\&logo=github\&label) [Chrome Automation (via devtools protocol)](https://github.com/PerditionC/VBAChromeDevProtocol) ⭐ 75 | 🐛 9 | 🌐 VBA | 📅 2023-01-18 - Automate Chrome using chrome devtools protocol.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/vbacollective/wasabi?style\&logo=github\&label) [Wasabi](https://github.com/vbacollective/wasabi) ⭐ 56 | 🐛 1 | 🌐 VBA | 📅 2026-08-29 - Native WebSocket, WSS, MQTT, and raw TCP client for VBA. Pure VBA, single-file, and zero dependencies.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-Inspiration?style\&logo=github\&label) [Edge Automation](https://www.codeproject.com/Tips/5307593/Automate-Chrome-Edge-using-VBA) - Automate Chromium Edge using devtools protocol. [GitHub backup here](https://github.com/sancarn/stdVBA-Inspiration/tree/master/ChromeEdgeAutomation) ⭐ 40 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-04-24.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-Inspiration?style\&logo=github\&label) [Edge Automation](https://www.codeproject.com/Tips/5307593/Automate-Chrome-Edge-using-VBA) - Automate Chromium Edge using devtools protocol. [GitHub backup here](https://github.com/sancarn/stdVBA-Inspiration/tree/master/ChromeEdgeAutomation) ⭐ 39 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-04-24.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/tarboh/WebView2-For-Excel-VBA?style\&logo=github\&label) [WebView2 for Excel VBA](https://github.com/tarboh/WebView2-For-Excel-VBA) ⭐ 28 | 🐛 4 | 🌐 VBA | 📅 2026-08-28 – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/EagleAglow/vba-websocket-async?style\&logo=github\&label) [VBA-WebSocket](https://github.com/EagleAglow/vba-websocket) ⭐ 27 | 🐛 1 | 🌐 VBA | 📅 2026-05-07 - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also [a class](https://github.com/EagleAglow/vba-websocket-class) ⭐ 10 | 🐛 1 | 🌐 VBA | 📅 2022-02-13 and an [async version](https://github.com/EagleAglow/vba-websocket-async) ⭐ 9 | 🐛 0 | 🌐 VBA | 📅 2026-05-07 built by the discoverer of the microsoft code.
 * From Library Collections:
@@ -246,7 +246,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 371 | 🐛 101 | 🌐 VBA | 📅 2026-10-09 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 371 | 🐛 101 | 🌐 VBA | 📅 2026-10-20 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
@@ -283,7 +283,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 * [Thunder - The birth of Visual Basic](http://www.forestmoon.com/birthofvb/birthofvb.html) - A little article about the birth of VB7/VBA.
 * [My First Bill Gates Review](https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/) - Joel Spolsky, program manager for the Excel team, recounts his first Bill Gates review. Joel got numerous features added e.g. `IDispatch`, `Variant`, `For each` and `With`. It also discusses the dreaded Date bug ported to Excel from Lotus 123.
-* [Ruby, EB and DLL composition](https://github.com/sancarn/stdVBA-Inspiration/blob/master/_OtherDocumentation/VBA%20and%20VB6%20History%20-%20Eb%20and%20Ruby/VBA%20History.md) ⭐ 40 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-04-24 - Translated copy of [VBStreets article](http://bbs.vbstreets.ru/viewtopic.php?f=101\&t=56551) created by Russian VBer `Хакер`. Details the composition of the VB6 and VBA dlls in amongst the history of the language.
+* [Ruby, EB and DLL composition](https://github.com/sancarn/stdVBA-Inspiration/blob/master/_OtherDocumentation/VBA%20and%20VB6%20History%20-%20Eb%20and%20Ruby/VBA%20History.md) ⭐ 39 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2026-04-24 - Translated copy of [VBStreets article](http://bbs.vbstreets.ru/viewtopic.php?f=101\&t=56551) created by Russian VBer `Хакер`. Details the composition of the VB6 and VBA dlls in amongst the history of the language.
 * [PCode Internals](https://www.vbforums.com/showthread.php?884919-pcode-internals) - VBA is compiled to PCode. Understanding the lower level P-Code is a topic of heavy interest and research.
 * [How many lines of code in EB](http://bbs.vbstreets.ru/viewtopic.php?f=101\&t=56633) - Untranlated article by Russian VBer `Хакер` which estimates the number of lines of code in VB6/VBA.
 * [SAFEARRAYS](https://www.vbforums.com/showthread.php?895566-RESOLVED-SAFEARRAY-Structure-for-an-Array) - The internal structure of arrays.
@@ -303,7 +303,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Websites
 
-* [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 410 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
+* [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 411 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
 * [Excel Development Platform Blog](https://exceldevelopmentplatform.blogspot.com/) - Blog dealing with advanced topics/VBA.
 * [MSDN VBA Documentation](https://msdn.microsoft.com/en-us/vba/office-vba-reference)
 * [MS-VBAL Language Spec](https://docs.microsoft.com/en-gb/openspecs/microsoft_general_purpose_programming_languages/ms-vbal/d5418146-0bd2-45eb-9c7a-fd9502722c74)
@@ -428,4 +428,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:26:23.184Z",
+    "last_updated": "2026-10-22T00:29:36.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2153,7 +2153,7 @@
       "open_issues": 18,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 635,
+      "stars": 636,
       "topics": [
         "awesome",
         "awesome-list",

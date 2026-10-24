@@ -1657,7 +1657,7 @@
             "language": "VBA",
             "license": "MIT",
             "last_commit": "2026-09-01T17:05:05Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "KallunWillock",
             "repo": "vbaXray",
             "stars": 32,
@@ -1906,7 +1906,7 @@
             "open_issues": 521,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3436,
+            "stars": 3439,
             "topics": [
               "compound",
               "forensics",
@@ -2141,7 +2141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:27:20.694Z",
+    "last_updated": "2026-10-24T00:22:28.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

@@ -658,7 +658,7 @@
                 "id": 809118173,
                 "language": "VBA",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-19T16:42:10Z",
+                "last_commit": "2026-10-25T10:11:30Z",
                 "open_issues": 2,
                 "owner": "personalityson",
                 "repo": "VBANN",
@@ -1548,7 +1548,7 @@
                 "open_issues": 21,
                 "owner": "wqweto",
                 "repo": "VbAsyncSocket",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "aead",
                   "aes-gcm",
@@ -2176,10 +2176,10 @@
             "language": "VBA",
             "license": "MPL-2.0",
             "last_commit": "2026-10-12T20:04:15Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "snippets",
               "syntax-highlighting",
@@ -2378,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:05:27.427Z",
+    "last_updated": "2026-10-25T23:56:47.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

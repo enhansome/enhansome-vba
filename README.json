@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "macros",
               "microsoft",
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "Hidennotare",
-          "description": "Hidennotare - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.",
+          "description": "Hidennotare - A framework containing numerous classes, interfaces and forms.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -84,6 +84,41 @@
             ]
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ROneCOne",
+          "description": "ROneCOne - A dependency-free C#-style framework for Windows x64 Excel: LINQ, tasks, data tables, and JSON in one class module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A dependency-free language and runtime layer that brings modern programming capabilities and C#-style developer ergonomics to Excel VBA in a single class module.",
+            "homepage": null,
+            "id": 1305346081,
+            "language": "VBA",
+            "license": "MIT",
+            "last_commit": "2026-10-23T15:45:56Z",
+            "open_issues": 0,
+            "owner": "WilliamSmithEdward",
+            "repo": "ROneCOne",
+            "stars": 10,
+            "topics": [
+              "delegates",
+              "dependency-free",
+              "developer-tools",
+              "excel",
+              "excel-vba",
+              "exception-handling",
+              "functional-programming",
+              "generics",
+              "lambda-expressions",
+              "linq",
+              "microsoft-excel",
+              "office365",
+              "vba"
+            ]
+          },
+          "first_seen": "2026-10-25T00:05:27.427Z"
         }
       ],
       "title": "Library Collections"
@@ -332,6 +367,36 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ChibiArc",
+                  "description": "ChibiArc - Read and write ZIP, 7-Zip, TAR, CAB, and ISO via built-in (64-bit, Windows 10+).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A single‑class VBA archive engine powered by libarchive (Zip/7-Zip/TAR/ISO, etc)",
+                    "homepage": null,
+                    "id": 1285651225,
+                    "language": "VBA",
+                    "license": "MIT",
+                    "last_commit": "2026-10-24T07:40:34Z",
+                    "open_issues": 0,
+                    "owner": "KallunWillock",
+                    "repo": "ChibiArc",
+                    "stars": 17,
+                    "topics": [
+                      "7zip",
+                      "archiveint",
+                      "cab",
+                      "iso",
+                      "libarchive",
+                      "tar",
+                      "vba",
+                      "zip"
+                    ]
+                  },
+                  "first_seen": "2026-10-25T00:05:27.427Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Excel-ZipTools",
                   "description": "Excel-ZipTools - Parse, read, and extract data from, Zip files. Written in pure vba.",
                   "children": [],
@@ -403,6 +468,35 @@
                     ]
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ChibiPDF",
+                  "description": "ChibiPDF - Dependency-free PDF text extraction, OCR, and page rendering for Windows 10+.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A suite of dependency-free PDF related tools for VBA.",
+                    "homepage": null,
+                    "id": 1263598305,
+                    "language": "VBA",
+                    "license": "MIT",
+                    "last_commit": "2026-10-24T07:42:12Z",
+                    "open_issues": 0,
+                    "owner": "KallunWillock",
+                    "repo": "ChibiPDF",
+                    "stars": 18,
+                    "topics": [
+                      "ocr",
+                      "pdf",
+                      "pdf-generator",
+                      "pdf-viewer",
+                      "vba",
+                      "vba-office",
+                      "winrt"
+                    ]
+                  },
+                  "first_seen": "2026-10-25T00:05:27.427Z"
                 }
               ],
               "description": null,
@@ -469,7 +563,7 @@
                     "open_issues": 18,
                     "owner": "VBA-tools",
                     "repo": "VBA-Dictionary",
-                    "stars": 407,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
@@ -551,6 +645,42 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VBANN",
+              "description": "VBANN - A machine learning framework for training neural networks inside an Excel workbook, with an optional OpenBLAS speedup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Machine learning library in VBA",
+                "homepage": null,
+                "id": 809118173,
+                "language": "VBA",
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-19T16:42:10Z",
+                "open_issues": 2,
+                "owner": "personalityson",
+                "repo": "VBANN",
+                "stars": 9,
+                "topics": [
+                  "backpropagation",
+                  "deep-learning",
+                  "excel",
+                  "gradient-boosting",
+                  "machine-learning",
+                  "machinelearning",
+                  "mlp",
+                  "neural-network",
+                  "neural-networks",
+                  "openblas",
+                  "regression",
+                  "tensor",
+                  "vba",
+                  "xgboost"
+                ]
+              },
+              "first_seen": "2026-10-25T00:05:27.427Z"
             },
             {
               "node_type": "item",
@@ -941,11 +1071,11 @@
                 "id": 968116713,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2025-09-24T14:19:56Z",
+                "last_commit": "2026-10-24T11:50:04Z",
                 "open_issues": 0,
                 "owner": "cristianbuse",
                 "repo": "VBA-SafeTimer",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1018,6 +1148,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "vbaImageSearch",
+              "description": "vbaImageSearch - Find a bitmap on screen or inside another image, with optional colour tolerance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Image-in-Image search functionality for VBA Automation",
+                "homepage": null,
+                "id": 1006553273,
+                "language": "VBA",
+                "license": "MIT",
+                "last_commit": "2025-07-11T17:20:33Z",
+                "open_issues": 0,
+                "owner": "KallunWillock",
+                "repo": "vbaImageSearch",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T00:05:27.427Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "VBA-MemoryTools",
               "description": "VBA-MemoryTools - Provides an ultra-fast, copy memory alternative.",
               "children": [],
@@ -1074,7 +1232,7 @@
                 "open_issues": 1,
                 "owner": "Ariche2",
                 "repo": "VBAStack",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1120,6 +1278,51 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TaskbarExtensionsVBA",
+              "description": "TaskbarExtensionsVBA - Pure VBA control of Windows taskbar progress, overlay icons, jump lists, and thumbnail buttons. No external DLL. Thumbnail clicks need 64-bit Office.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VBAからタスクバーの拡張機能を制御します",
+                "homepage": "https://learn.microsoft.com/ja-jp/windows/win32/shell/taskbar-extensions",
+                "id": 857718265,
+                "language": "VBA",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-15T12:44:16Z",
+                "open_issues": 0,
+                "owner": "Eschamali",
+                "repo": "TaskbarExtensionsVBA",
+                "stars": 4,
+                "topics": [
+                  "cpp",
+                  "vba"
+                ]
+              },
+              "first_seen": "2026-10-25T00:05:27.427Z"
+            },
+            {
+              "node_type": "item",
+              "title": "X64Bridge",
+              "description": "X64Bridge - Call 64-bit DLLs from 32-bit VB6/VBA on 64-bit Windows using the WOW64 segment trick.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "X64Bridge — Call 64-bit DLL from VB6/VBA 32-bit using WOW64 Segment Trick",
+                "homepage": null,
+                "id": 1240451970,
+                "language": "Visual Basic 6.0",
+                "license": "MIT",
+                "last_commit": "2026-05-16T06:41:20Z",
+                "open_issues": 0,
+                "owner": "KieuManh366377",
+                "repo": "X64Bridge-Call-64-bit-DLL-from-VB6-VBA-32-bit-using-WOW64-Segment-Trick",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T00:05:27.427Z"
             }
           ],
           "description": null,
@@ -1168,8 +1371,8 @@
                 "id": 833718064,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-06-06T06:44:44Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-24T16:49:03Z",
+                "open_issues": 1,
                 "owner": "sihlfall",
                 "repo": "vba-regex",
                 "stars": 24,
@@ -1235,6 +1438,40 @@
                 ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VbaPcre2",
+              "description": "VbaPcre2 - PCRE2 regular-expression wrapper for 32- and 64-bit VBA, with a separate DLL for Win32 and Win64.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PCRE2 Regular Expression (Regex) Library Wrapper for TwinBasic and Microsoft Visual Basic For Applications (VBA 32+64 bit)",
+                "homepage": null,
+                "id": 1058891658,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2025-09-20T03:44:54Z",
+                "open_issues": 1,
+                "owner": "SanbiVN",
+                "repo": "VbaPcre2",
+                "stars": 2,
+                "topics": [
+                  "access",
+                  "excel",
+                  "msoffice-regex",
+                  "pcre2",
+                  "pcre2-regex",
+                  "regex-engine",
+                  "twinbasic-regex",
+                  "vb6",
+                  "vba",
+                  "vba-regex",
+                  "visual-basic",
+                  "word"
+                ]
+              },
+              "first_seen": "2026-10-25T00:05:27.427Z"
             }
           ],
           "description": null,
@@ -1381,7 +1618,7 @@
                 "open_issues": 9,
                 "owner": "PerditionC",
                 "repo": "VBAChromeDevProtocol",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "automate",
                   "browser-automation",
@@ -1555,7 +1792,7 @@
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1576,7 +1813,7 @@
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1597,7 +1834,7 @@
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1618,7 +1855,7 @@
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1639,7 +1876,7 @@
             "open_issues": 6,
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2085,7 +2322,7 @@
             {
               "node_type": "item",
               "title": "vbAccelerator Archive",
-              "description": "Archived copy of vbAccelerator site (articles, source code, etc.) that disappeared in 2015, reappeared in 2018, and anyone's guess what's going to next… Primarily VB6, but useful VBA resource.",
+              "description": "vbAccelerator Archive - Archived copy of vbAccelerator site (articles, source code, etc.) that disappeared in 2015, reappeared in 2018, and anyone's guess what's going to next… Primarily VB6, but useful VBA resource.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2113,7 +2350,7 @@
             {
               "node_type": "item",
               "title": "MS KB Archive",
-              "description": "Massive archive of vb6/vba problems, solutions and tutorials.",
+              "description": "MS KB Archive - Massive archive of vb6/vba problems, solutions and tutorials.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2141,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:22:28.276Z",
+    "last_updated": "2026-10-25T00:05:27.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2149,11 +2386,11 @@
       "id": 496789368,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-10-22T18:07:49Z",
-      "open_issues": 17,
+      "last_commit": "2026-10-24T12:36:24Z",
+      "open_issues": 2,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 636,
+      "stars": 637,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2163,7 +2400,7 @@
         "visual-basic-for-applications"
       ]
     },
-    "original_repository_sha": "6d2cdfd2593d73dd1088ca610d457dd96c36307b",
+    "original_repository_sha": "3e64005eb9ed589bddeacff5c2bcb7a66cd3c298",
     "enhanced_repository": "enhansome/enhansome-vba",
     "enhanced_repository_description": null,
     "title": "Awesome VBA with stars"

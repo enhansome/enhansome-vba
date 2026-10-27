@@ -16,7 +16,7 @@
             "language": "VBA",
             "license": "MIT",
             "last_commit": "2026-10-22T17:22:38Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "sancarn",
             "repo": "stdVBA",
             "stars": 412,
@@ -97,7 +97,7 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-10-23T15:45:56Z",
+            "last_commit": "2026-10-26T07:28:54Z",
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
@@ -408,7 +408,7 @@
                     "language": "VBA",
                     "license": "MIT",
                     "last_commit": "2026-03-24T12:35:47Z",
-                    "open_issues": 0,
+                    "open_issues": 2,
                     "owner": "cristianbuse",
                     "repo": "Excel-ZipTools",
                     "stars": 14,
@@ -658,7 +658,7 @@
                 "id": 809118173,
                 "language": "VBA",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-25T10:11:30Z",
+                "last_commit": "2026-10-26T17:33:39Z",
                 "open_issues": 2,
                 "owner": "personalityson",
                 "repo": "VBANN",
@@ -891,8 +891,8 @@
                 "id": 555574954,
                 "language": "Visual Basic 6.0",
                 "license": null,
-                "last_commit": "2026-02-21T04:00:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-26T21:20:11Z",
+                "open_issues": 1,
                 "owner": "fafalone",
                 "repo": "cTaskDialog64",
                 "stars": 52,
@@ -2314,7 +2314,7 @@
                 "open_issues": 2,
                 "owner": "Planet-Source-Code",
                 "repo": "PSCIndex",
-                "stars": 140,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2363,7 +2363,7 @@
                 "open_issues": 4,
                 "owner": "jeffpar",
                 "repo": "kbarchive",
-                "stars": 411,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2378,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:56:47.115Z",
+    "last_updated": "2026-10-27T01:16:57.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2390,7 +2390,7 @@
       "open_issues": 2,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 637,
+      "stars": 639,
       "topics": [
         "awesome",
         "awesome-list",

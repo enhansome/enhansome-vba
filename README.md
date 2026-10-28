@@ -59,17 +59,17 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Library Collections
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Sancarn") ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 412 | 🐛 45 | 🌐 VBA | 📅 2026-10-22 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Sancarn") ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 412 | 🐛 41 | 🌐 VBA | 📅 2026-10-28 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) [![o\_by][o_by]](#- "Kelly Ethridge") ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 137 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Yasuhiro Watanabe") ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework containing numerous classes, interfaces and forms.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "William Smith") ![GHStars](https://img.shields.io/github/stars/WilliamSmithEdward/ROneCOne?style\&logo=github\&label) [ROneCOne](https://github.com/WilliamSmithEdward/ROneCOne) ⭐ 10 | 🐛 0 | 🌐 VBA | 📅 2026-10-26 - A dependency-free C#-style framework for Windows x64 Excel: LINQ, tasks, data tables, and JSON in one class module.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "William Smith") ![GHStars](https://img.shields.io/github/stars/WilliamSmithEdward/ROneCOne?style\&logo=github\&label) [ROneCOne](https://github.com/WilliamSmithEdward/ROneCOne) ⭐ 10 | 🐛 0 | 🌐 VBA | 📅 2026-10-27 - A dependency-free C#-style framework for Windows x64 Excel: LINQ, tasks, data tables, and JSON in one class module.
 
 ## Libraries
 
 ### Embedded programming languages
 
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/VBA-Expressions?style\&logo=github\&label) [VBA Expressions](https://github.com/ECP-Solutions/VBA-Expressions) ⭐ 51 | 🐛 0 | 🌐 VBA | 📅 2026-02-12 - A powerful string expression evaluator focussed on mathematics and data processing.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style\&logo=github\&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) ⭐ 41 | 🐛 0 | 🌐 VBA | 📅 2026-07-27 - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style\&logo=github\&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) ⭐ 41 | 🐛 0 | 🌐 VBA | 📅 2026-10-28 - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "jet2jet") ![GHStars](https://img.shields.io/github/stars/jet2jet/vb2clr?style\&logo=github\&label) [vb2clr](https://github.com/jet2jet/vb2clr) ⭐ 34 | 🐛 1 | 🌐 VBA | 📅 2026-02-20 - Use C# from VBA using the .NET CLR runtime.
 * From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Sancarn") In `stdVBA` find `stdLambda` - Full programming language including object manipulation, call stack, etc.
@@ -258,7 +258,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) [![o\_by][o_by]](#- "Adam Waller") ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 372 | 🐛 101 | 🌐 VBA | 📅 2026-10-20 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) [![o\_by][o_by]](#- "Adam Waller") ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 372 | 🐛 97 | 🌐 VBA | 📅 2026-10-27 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) [![o\_by][o_by]](#- "Joey Melo") ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "Doug Glancy") [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "Sam Rad") [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
@@ -445,4 +445,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

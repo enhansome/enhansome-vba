@@ -15,8 +15,8 @@
             "id": 164031037,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-10-30T12:59:47Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-31T20:14:17Z",
+            "open_issues": 24,
             "owner": "sancarn",
             "repo": "stdVBA",
             "stars": 412,
@@ -97,8 +97,8 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-10-31T01:11:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-31T02:38:47Z",
+            "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
             "stars": 10,
@@ -180,7 +180,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-10-31T01:03:02Z",
+                "last_commit": "2026-10-31T13:48:20Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -1981,7 +1981,7 @@
                 "open_issues": 61,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 373,
+                "stars": 374,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2378,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:27:13.243Z",
+    "last_updated": "2026-11-01T00:48:25.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

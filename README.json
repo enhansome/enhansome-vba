@@ -15,7 +15,7 @@
             "id": 164031037,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-01T19:16:07Z",
+            "last_commit": "2026-11-03T00:43:03Z",
             "open_issues": 24,
             "owner": "sancarn",
             "repo": "stdVBA",
@@ -97,7 +97,7 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-10-31T02:38:47Z",
+            "last_commit": "2026-11-02T15:51:28Z",
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
@@ -180,7 +180,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-01T11:53:10Z",
+                "last_commit": "2026-11-03T01:10:14Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -1981,7 +1981,7 @@
                 "open_issues": 61,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2107,7 +2107,7 @@
                 "id": 407969725,
                 "language": "Visual Basic 6.0",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T17:04:26Z",
+                "last_commit": "2026-11-02T18:31:28Z",
                 "open_issues": 0,
                 "owner": "M2000Interpreter",
                 "repo": "Environment",
@@ -2378,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:20:56.172Z",
+    "last_updated": "2026-11-03T03:21:46.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2390,7 +2390,7 @@
       "open_issues": 2,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 641,
+      "stars": 642,
       "topics": [
         "awesome",
         "awesome-list",

@@ -69,7 +69,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 ### Embedded programming languages
 
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/VBA-Expressions?style\&logo=github\&label) [VBA Expressions](https://github.com/ECP-Solutions/VBA-Expressions) ⭐ 51 | 🐛 0 | 🌐 VBA | 📅 2026-11-01 - A powerful string expression evaluator focussed on mathematics and data processing.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style\&logo=github\&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) ⭐ 41 | 🐛 0 | 🌐 VBA | 📅 2026-11-03 - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style\&logo=github\&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) ⭐ 41 | 🐛 0 | 🌐 VBA | 📅 2026-11-04 - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "jet2jet") ![GHStars](https://img.shields.io/github/stars/jet2jet/vb2clr?style\&logo=github\&label) [vb2clr](https://github.com/jet2jet/vb2clr) ⭐ 34 | 🐛 1 | 🌐 VBA | 📅 2026-02-20 - Use C# from VBA using the .NET CLR runtime.
 * From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Sancarn") In `stdVBA` find `stdLambda` - Full programming language including object manipulation, call stack, etc.
@@ -316,7 +316,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Websites
 
-* [![o\_by][o_by]](#- "Jeff Parsons") [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 410 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
+* [![o\_by][o_by]](#- "Jeff Parsons") [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 411 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
 * [![o\_by][o_by]](#- "Simon Meaden") [Excel Development Platform Blog](https://exceldevelopmentplatform.blogspot.com/) - Blog dealing with advanced topics/VBA.
 * [MSDN VBA Documentation](https://msdn.microsoft.com/en-us/vba/office-vba-reference)
 * [MS-VBAL Language Spec](https://docs.microsoft.com/en-gb/openspecs/microsoft_general_purpose_programming_languages/ms-vbal/d5418146-0bd2-45eb-9c7a-fd9502722c74)
@@ -445,4 +445,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

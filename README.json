@@ -180,7 +180,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-03T01:10:14Z",
+                "last_commit": "2026-11-04T01:38:12Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -2363,7 +2363,7 @@
                 "open_issues": 4,
                 "owner": "jeffpar",
                 "repo": "kbarchive",
-                "stars": 410,
+                "stars": 411,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2378,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:21:46.081Z",
+    "last_updated": "2026-11-04T01:59:50.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

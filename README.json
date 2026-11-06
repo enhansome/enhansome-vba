@@ -180,7 +180,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-05T00:13:57Z",
+                "last_commit": "2026-11-06T01:54:17Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -729,7 +729,7 @@
                 "language": "VBA",
                 "license": null,
                 "last_commit": "2025-10-16T20:25:48Z",
-                "open_issues": 18,
+                "open_issues": 20,
                 "owner": "Beakerboy",
                 "repo": "VBA-SQL-Library",
                 "stars": 90,
@@ -1396,7 +1396,7 @@
                 "open_issues": 0,
                 "owner": "Excel-lent",
                 "repo": "ClooWrapperVBA",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "async",
                   "async-programming",
@@ -1978,7 +1978,7 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-28T14:49:17Z",
-                "open_issues": 62,
+                "open_issues": 65,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 376,
@@ -2140,7 +2140,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-02-14T19:42:44Z",
-            "open_issues": 521,
+            "open_issues": 522,
             "owner": "decalage2",
             "repo": "oletools",
             "stars": 3444,
@@ -2378,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:02:11.002Z",
+    "last_updated": "2026-11-06T02:04:14.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2390,7 +2390,7 @@
       "open_issues": 2,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 642,
+      "stars": 643,
       "topics": [
         "awesome",
         "awesome-list",

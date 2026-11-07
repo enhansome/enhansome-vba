@@ -101,7 +101,7 @@
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "delegates",
               "dependency-free",
@@ -180,7 +180,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:54:17Z",
+                "last_commit": "2026-11-06T03:54:37Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -2143,7 +2143,7 @@
             "open_issues": 522,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3444,
+            "stars": 3445,
             "topics": [
               "compound",
               "forensics",
@@ -2225,7 +2225,7 @@
             "id": 956214381,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-13T11:13:56Z",
+            "last_commit": "2026-11-06T02:45:52Z",
             "open_issues": 5,
             "owner": "DecimalTurn",
             "repo": "VBA-Build",
@@ -2363,7 +2363,7 @@
                 "open_issues": 4,
                 "owner": "jeffpar",
                 "repo": "kbarchive",
-                "stars": 411,
+                "stars": 412,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2378,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T02:04:14.395Z",
+    "last_updated": "2026-11-07T01:42:43.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

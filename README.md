@@ -62,7 +62,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Sancarn") ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 412 | 🐛 24 | 🌐 VBA | 📅 2026-11-03 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) [![o\_by][o_by]](#- "Kelly Ethridge") ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 137 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Yasuhiro Watanabe") ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework containing numerous classes, interfaces and forms.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "William Smith") ![GHStars](https://img.shields.io/github/stars/WilliamSmithEdward/ROneCOne?style\&logo=github\&label) [ROneCOne](https://github.com/WilliamSmithEdward/ROneCOne) ⭐ 10 | 🐛 0 | 🌐 VBA | 📅 2026-11-02 - A dependency-free C#-style framework for Windows x64 Excel: LINQ, tasks, data tables, and JSON in one class module.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "William Smith") ![GHStars](https://img.shields.io/github/stars/WilliamSmithEdward/ROneCOne?style\&logo=github\&label) [ROneCOne](https://github.com/WilliamSmithEdward/ROneCOne) ⭐ 11 | 🐛 0 | 🌐 VBA | 📅 2026-11-02 - A dependency-free C#-style framework for Windows x64 Excel: LINQ, tasks, data tables, and JSON in one class module.
 
 ## Libraries
 
@@ -278,10 +278,10 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## External tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Philippe Lagadec") ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,444 | 🐛 522 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Philippe Lagadec") ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,445 | 🐛 522 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Lukas Neubert") ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 67 | 🐛 11 | 🌐 VBA | 📅 2026-11-01 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "SSlinky") ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 60 | 🐛 22 | 🌐 TypeScript | 📅 2025-06-18.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Martin Leduc") ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 5 | 🌐 PowerShell | 📅 2026-10-13 - Github action to automatically build a VBA project on commit.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Martin Leduc") ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 5 | 🌐 PowerShell | 📅 2026-11-06 - Github action to automatically build a VBA project on commit.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Kevin Nowaczyk") ![GHStars](https://img.shields.io/github/stars/Beakerboy/MS-OVBA?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) ⭐ 29 | 🐛 17 | 🌐 Python | 📅 2026-04-14 - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2024-11-12 made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![o\_dll][o_dll]](#- "Uses an external exe") [![o\_by][o_by]](#- "John") [VBE\_Colours](https://www.thevbahelp.com/vbe-colours) - A small external utility to configure the colours of the VBE editor. Not open-source, but [its Github presence provides additional information](https://github.com/john-tvh/VBE_Colours) ⭐ 3 | 🐛 0 | 📅 2025-06-16.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_misc][a_misc]](#- "VBA planned but as of 2022-05-27 can only compile to exe") [![o\_by][o_by]](#- "Wayne Phillips") [twinBasic](https://twinbasic.com/) - A VBA compatible parser, evaluator and compiler.
@@ -316,7 +316,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Websites
 
-* [![o\_by][o_by]](#- "Jeff Parsons") [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 411 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
+* [![o\_by][o_by]](#- "Jeff Parsons") [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 412 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
 * [![o\_by][o_by]](#- "Simon Meaden") [Excel Development Platform Blog](https://exceldevelopmentplatform.blogspot.com/) - Blog dealing with advanced topics/VBA.
 * [MSDN VBA Documentation](https://msdn.microsoft.com/en-us/vba/office-vba-reference)
 * [MS-VBAL Language Spec](https://docs.microsoft.com/en-gb/openspecs/microsoft_general_purpose_programming_languages/ms-vbal/d5418146-0bd2-45eb-9c7a-fd9502722c74)
@@ -445,4 +445,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

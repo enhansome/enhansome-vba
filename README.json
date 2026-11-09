@@ -101,7 +101,7 @@
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "delegates",
               "dependency-free",
@@ -664,18 +664,12 @@
                 "repo": "VBANN",
                 "stars": 9,
                 "topics": [
-                  "backpropagation",
                   "deep-learning",
                   "excel",
-                  "gradient-boosting",
                   "machine-learning",
                   "machinelearning",
-                  "mlp",
                   "neural-network",
                   "neural-networks",
-                  "openblas",
-                  "regression",
-                  "tensor",
                   "vba",
                   "xgboost"
                 ]
@@ -1371,8 +1365,8 @@
                 "id": 833718064,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-10-29T10:37:43Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-08T10:29:36Z",
+                "open_issues": 1,
                 "owner": "sihlfall",
                 "repo": "vba-regex",
                 "stars": 24,
@@ -1496,7 +1490,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2135,
+                "stars": 2134,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1981,7 +1975,7 @@
                 "open_issues": 65,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 376,
+                "stars": 377,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2378,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:11:50.344Z",
+    "last_updated": "2026-11-09T01:30:16.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

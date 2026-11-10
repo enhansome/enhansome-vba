@@ -15,7 +15,7 @@
             "id": 164031037,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-03T00:43:03Z",
+            "last_commit": "2026-11-09T02:41:42Z",
             "open_issues": 24,
             "owner": "sancarn",
             "repo": "stdVBA",
@@ -97,7 +97,7 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-07T01:49:47Z",
+            "last_commit": "2026-11-09T07:22:26Z",
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
@@ -180,7 +180,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-08T00:23:10Z",
+                "last_commit": "2026-11-09T11:56:18Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -751,7 +751,7 @@
                 "open_issues": 0,
                 "owner": "EtienneLenoir",
                 "repo": "duckdb-vba",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "csv",
                   "dll",
@@ -1022,7 +1022,7 @@
                 "open_issues": 4,
                 "owner": "fafalone",
                 "repo": "ucWebView2",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1511,7 +1511,7 @@
                 "open_issues": 12,
                 "owner": "michaelneu",
                 "repo": "webxcel",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "excel",
                   "http",
@@ -1972,10 +1972,10 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-28T14:49:17Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 377,
+                "stars": 379,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2137,7 +2137,7 @@
             "open_issues": 522,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3447,
+            "stars": 3446,
             "topics": [
               "compound",
               "forensics",
@@ -2357,7 +2357,7 @@
                 "open_issues": 4,
                 "owner": "jeffpar",
                 "repo": "kbarchive",
-                "stars": 412,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:30:16.417Z",
+    "last_updated": "2026-11-10T03:59:15.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

@@ -15,11 +15,11 @@
             "id": 164031037,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-09T02:41:42Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-11T00:21:08Z",
+            "open_issues": 25,
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "macros",
               "microsoft",
@@ -97,7 +97,7 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-09T07:22:26Z",
+            "last_commit": "2026-11-10T15:48:38Z",
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
@@ -252,7 +252,7 @@
                     "open_issues": 0,
                     "owner": "cristianbuse",
                     "repo": "VBA-FastJSON",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1490,7 +1490,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2134,
+                "stars": 2133,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1581,7 +1581,7 @@
                 "open_issues": 5,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "access",
                   "chrome",
@@ -2137,7 +2137,7 @@
             "open_issues": 522,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3446,
+            "stars": 3447,
             "topics": [
               "compound",
               "forensics",
@@ -2372,7 +2372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:59:15.127Z",
+    "last_updated": "2026-11-11T01:44:57.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2384,7 +2384,7 @@
       "open_issues": 2,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 643,
+      "stars": 646,
       "topics": [
         "awesome",
         "awesome-list",

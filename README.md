@@ -68,8 +68,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Embedded programming languages
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/VBA-Expressions?style\&logo=github\&label) [VBA Expressions](https://github.com/ECP-Solutions/VBA-Expressions) ⭐ 51 | 🐛 0 | 🌐 VBA | 📅 2026-11-01 - A powerful string expression evaluator focussed on mathematics and data processing.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style\&logo=github\&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) ⭐ 41 | 🐛 0 | 🌐 VBA | 📅 2026-11-09 - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style\&logo=github\&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) ⭐ 41 | 🐛 0 | 🌐 VBA | 📅 2026-11-11 - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "jet2jet") ![GHStars](https://img.shields.io/github/stars/jet2jet/vb2clr?style\&logo=github\&label) [vb2clr](https://github.com/jet2jet/vb2clr) ⭐ 34 | 🐛 1 | 🌐 VBA | 📅 2026-02-20 - Use C# from VBA using the .NET CLR runtime.
 * From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Sancarn") In `stdVBA` find `stdLambda` - Full programming language including object manipulation, call stack, etc.
@@ -258,7 +257,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) [![o\_by][o_by]](#- "Adam Waller") ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 379 | 🐛 66 | 🌐 VBA | 📅 2026-10-28 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) [![o\_by][o_by]](#- "Adam Waller") ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 380 | 🐛 69 | 🌐 VBA | 📅 2026-10-28 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) [![o\_by][o_by]](#- "Joey Melo") ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "Doug Glancy") [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "Sam Rad") [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
@@ -278,7 +277,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## External tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Philippe Lagadec") ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,447 | 🐛 522 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Philippe Lagadec") ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,447 | 🐛 523 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Lukas Neubert") ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 67 | 🐛 11 | 🌐 VBA | 📅 2026-11-01 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "SSlinky") ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 60 | 🐛 22 | 🌐 TypeScript | 📅 2025-06-18.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![o\_by][o_by]](#- "Martin Leduc") ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 31 | 🐛 5 | 🌐 PowerShell | 📅 2026-11-06 - Github action to automatically build a VBA project on commit.
@@ -311,7 +310,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### VB6 / VBScript
 
-* [Planet Source Code](https://github.com/Planet-Source-Code/PSCIndex) ⭐ 139 | 🐛 2 | 📅 2022-12-04 - A code repository GitHub which holds copious amounts of code. The site was closed down in 2023, but fortunately all VBA/VB6 samples were archived on GitHub today. Possibly not the entire collection (?) of projects/source code that was previously available at the PSC website.
+* [Planet Source Code](https://github.com/Planet-Source-Code/PSCIndex) ⭐ 140 | 🐛 2 | 📅 2022-12-04 - A code repository GitHub which holds copious amounts of code. The site was closed down in 2023, but fortunately all VBA/VB6 samples were archived on GitHub today. Possibly not the entire collection (?) of projects/source code that was previously available at the PSC website.
 * [![o\_by][o_by]](#- "Steve McMahon") [vbAccelerator Archive](https://github.com/tannerhelland/vbAccelerator-Archive) ⭐ 98 | 🐛 0 | 🌐 HTML | 📅 2018-07-20 - Archived copy of vbAccelerator site (articles, source code, etc.) that disappeared in 2015, reappeared in 2018, and anyone's guess what's going to next… Primarily VB6, but useful VBA resource.
 
 ### Websites
@@ -445,4 +444,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

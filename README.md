@@ -62,7 +62,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Sancarn") ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 413 | 🐛 25 | 🌐 VBA | 📅 2026-11-11 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) [![o\_by][o_by]](#- "Kelly Ethridge") ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 137 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Yasuhiro Watanabe") ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework containing numerous classes, interfaces and forms.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "William Smith") ![GHStars](https://img.shields.io/github/stars/WilliamSmithEdward/ROneCOne?style\&logo=github\&label) [ROneCOne](https://github.com/WilliamSmithEdward/ROneCOne) ⭐ 12 | 🐛 0 | 🌐 VBA | 📅 2026-11-10 - A dependency-free C#-style framework for Windows x64 Excel: LINQ, tasks, data tables, and JSON in one class module.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "William Smith") ![GHStars](https://img.shields.io/github/stars/WilliamSmithEdward/ROneCOne?style\&logo=github\&label) [ROneCOne](https://github.com/WilliamSmithEdward/ROneCOne) ⭐ 12 | 🐛 0 | 🌐 VBA | 📅 2026-11-12 - A dependency-free C#-style framework for Windows x64 Excel: LINQ, tasks, data tables, and JSON in one class module.
 
 ## Libraries
 
@@ -77,7 +77,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### JSON
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Cristian Buse") ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-FastJSON?style\&logo=github\&label) [VBA-FastJSON](https://github.com/cristianbuse/VBA-FastJSON) ⭐ 36 | 🐛 0 | 🌐 VBA | 📅 2026-10-22 - Fast, cross-platform, native json parser and serializer. Memory efficient (non-recursive), RFC 8259 compliant, UTF8 support
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Cristian Buse") ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-FastJSON?style\&logo=github\&label) [VBA-FastJSON](https://github.com/cristianbuse/VBA-FastJSON) ⭐ 37 | 🐛 0 | 🌐 VBA | 📅 2026-10-22 - Fast, cross-platform, native json parser and serializer. Memory efficient (non-recursive), RFC 8259 compliant, UTF8 support
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Vladimir Vissoultchev") [mdJSON](https://www.vbforums.com/showthread.php?871695-VB6-VBA-JSON-parsing-to-built-in-VBA-Collections-with-JSON-Path-support) - JSON library with dot-notation for extracting paths.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "dilettante") [JSONBag](https://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator) - Uses shebang notation to extract keys from JSON strings. Can also build JSON with this library.
 * From Library Collections:
@@ -129,7 +129,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 ### Math libraries
 
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "Kevin Nowaczyk") ![GHStars](https://img.shields.io/github/stars/Beakerboy/VBA-Math-Objects?style\&logo=github\&label) [VBA-Math-Objects](https://github.com/Beakerboy/VBA-Math-Objects) ⭐ 11 | 🐛 4 | 🌐 VBA | 📅 2025-05-17 - A matrix and vector library.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "personalityson") ![GHStars](https://img.shields.io/github/stars/personalityson/VBANN?style\&logo=github\&label) [VBANN](https://github.com/personalityson/VBANN) ⭐ 9 | 🐛 2 | 🌐 VBA | 📅 2026-10-26 - A machine learning framework for training neural networks inside an Excel workbook, with an optional OpenBLAS speedup.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "personalityson") ![GHStars](https://img.shields.io/github/stars/personalityson/VBANN?style\&logo=github\&label) [VBANN](https://github.com/personalityson/VBANN) ⭐ 9 | 🐛 2 | 🌐 VBA | 📅 2026-11-12 - A machine learning framework for training neural networks inside an Excel workbook, with an optional OpenBLAS speedup.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [![o\_by][o_by]](#- "W. García") ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-float?style\&logo=github\&label) [VBA Float](https://github.com/ws-garcia/VBA-float) ⭐ 4 | 🐛 1 | 🌐 VBA | 📅 2024-08-29 - An utility to perform computations over big integers and rational numbers with thousands digits.
 
 ### Database tools
@@ -257,7 +257,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### AddIns
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) [![o\_by][o_by]](#- "Adam Waller") ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 380 | 🐛 69 | 🌐 VBA | 📅 2026-10-28 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_ac][a_ac]](#-) [![o\_by][o_by]](#- "Adam Waller") ![GHStars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style\&logo=github\&label) [MS Access VCS Addin](https://github.com/joyfullservice/msaccess-vcs-addin) ⭐ 380 | 🐛 73 | 🌐 VBA | 📅 2026-10-28 - Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_wd][a_wd]](#-) [![o\_by][o_by]](#- "Joey Melo") ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style\&logo=github\&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2024-09-13 - Custom built Syntax Highlight tool for Word Documents.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "Doug Glancy") [MenuRighter](https://yoursumbuddy.com/blog/menurighter/) - MenuRighter is an Excel addin that lets you modify right-click menus. You can add almost any control found in other right-click menus or Excel 2003's "classic" menus.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) [![o\_by][o_by]](#- "Sam Rad") [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
@@ -444,4 +444,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

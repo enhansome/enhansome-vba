@@ -885,7 +885,7 @@
                 "open_issues": 2,
                 "owner": "todar",
                 "repo": "VBA-Material-Design",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "design",
                   "excel",
@@ -1538,7 +1538,7 @@
                 "language": "VBA",
                 "license": "MIT",
                 "last_commit": "2026-06-27T17:58:19Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
                 "stars": 142,
@@ -2097,7 +2097,7 @@
             "open_issues": 525,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3450,
+            "stars": 3451,
             "topics": [
               "compound",
               "forensics",
@@ -2332,7 +2332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:02:01.940Z",
+    "last_updated": "2026-11-15T01:35:13.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2341,10 +2341,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-11-11T20:51:53Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 650,
+      "stars": 651,
       "topics": [
         "awesome",
         "awesome-list",

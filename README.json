@@ -15,8 +15,8 @@
             "id": 164031037,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-11T00:21:08Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-16T22:57:51Z",
+            "open_issues": 27,
             "owner": "sancarn",
             "repo": "stdVBA",
             "stars": 413,
@@ -97,7 +97,7 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-12T15:47:45Z",
+            "last_commit": "2026-11-16T07:25:07Z",
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
@@ -140,7 +140,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-15T21:03:43Z",
+                "last_commit": "2026-11-17T00:11:26Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -1057,6 +1057,27 @@
             },
             {
               "node_type": "item",
+              "title": "ReDim",
+              "description": "ReDim - Worksheet UI components, state bindings, and cooperative async tasks for Windows x64 Microsoft 365 Excel. Requires ROneCOne.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A stateful UI framework for Excel worksheets. Components, bindings, and fire-and-forget async over worksheet shapes, built on ROneCOne. No UserForms.",
+                "homepage": null,
+                "id": 1313104016,
+                "language": "VBA",
+                "license": "MIT",
+                "last_commit": "2026-11-16T07:15:31Z",
+                "open_issues": 0,
+                "owner": "WilliamSmithEdward",
+                "repo": "ReDim",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T04:21:52.135Z"
+            },
+            {
+              "node_type": "item",
               "title": "ucAniGifEx",
               "description": "ucAniGifEx - Animated GIF user control.",
               "children": [],
@@ -1096,7 +1117,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Userform tools"
+          "title": "UI / UserForm tools"
         },
         {
           "children": [
@@ -1450,7 +1471,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2133,
+                "stars": 2134,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1932,7 +1953,7 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-28T14:49:17Z",
-                "open_issues": 75,
+                "open_issues": 78,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 381,
@@ -2243,6 +2264,36 @@
             ]
           },
           "first_seen": "2026-08-31T00:16:58.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vb6decompiler",
+          "description": "vb6decompiler - Recovers structure from native-compiled VB6 binaries, with measured coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Evidence-based recovery of native-compiled VB6 programs: procedure table, BSTR literals, SQL stitching, form blobs, DataReport layouts",
+            "homepage": "https://pypi.org/project/vb6decompiler/",
+            "id": 1457451701,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-16T08:31:37Z",
+            "open_issues": 0,
+            "owner": "47Hunter47",
+            "repo": "vb6decompiler",
+            "stars": 2,
+            "topics": [
+              "decompiler",
+              "legacy-code",
+              "pe-format",
+              "reverse-engineering",
+              "static-analysis",
+              "vb6",
+              "vb6-decompiler",
+              "visual-basic"
+            ]
+          },
+          "first_seen": "2026-11-17T04:21:52.135Z"
         }
       ],
       "title": "External tools"
@@ -2332,7 +2383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:39:05.781Z",
+    "last_updated": "2026-11-17T04:21:52.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2340,8 +2391,8 @@
       "id": 496789368,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-11-11T20:51:53Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-16T22:20:19Z",
+      "open_issues": 5,
       "owner": "sancarn",
       "repo": "awesome-vba",
       "stars": 651,
@@ -2354,7 +2405,7 @@
         "visual-basic-for-applications"
       ]
     },
-    "original_repository_sha": "6579702b414095b6565594fb007892f4b595f70f",
+    "original_repository_sha": "80b83809e208bcfd93719b6463856bfa9240f359",
     "enhanced_repository": "enhansome/enhansome-vba",
     "enhanced_repository_description": null,
     "title": "Awesome VBA with stars"

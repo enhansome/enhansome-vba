@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 413,
+            "stars": 414,
             "topics": [
               "macros",
               "microsoft",
@@ -97,8 +97,8 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-18T03:21:16Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T05:02:40Z",
+            "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
             "stars": 12,
@@ -140,7 +140,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-18T00:44:29Z",
+                "last_commit": "2026-11-18T23:47:51Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -1067,8 +1067,8 @@
                 "id": 1313104016,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-18T03:21:22Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-18T05:02:44Z",
+                "open_issues": 0,
                 "owner": "WilliamSmithEdward",
                 "repo": "ReDim",
                 "stars": 12,
@@ -1471,7 +1471,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2134,
+                "stars": 2135,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1562,7 +1562,7 @@
                 "open_issues": 6,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "access",
                   "chrome",
@@ -1736,7 +1736,7 @@
             "open_issues": 13,
             "owner": "spences10",
             "repo": "VBA-IDE-Code-Export",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "developer-ribbon",
               "microsoft",
@@ -1956,7 +1956,7 @@
                 "open_issues": 77,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 381,
+                "stars": 382,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2277,7 +2277,7 @@
             "id": 1457451701,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T20:03:27Z",
+            "last_commit": "2026-11-18T18:46:58Z",
             "open_issues": 0,
             "owner": "47Hunter47",
             "repo": "vb6decompiler",
@@ -2383,7 +2383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:25:21.012Z",
+    "last_updated": "2026-11-19T02:58:57.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2391,8 +2391,8 @@
       "id": 496789368,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-11-16T22:20:19Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-18T22:31:20Z",
+      "open_issues": 4,
       "owner": "sancarn",
       "repo": "awesome-vba",
       "stars": 651,
@@ -2405,7 +2405,7 @@
         "visual-basic-for-applications"
       ]
     },
-    "original_repository_sha": "80b83809e208bcfd93719b6463856bfa9240f359",
+    "original_repository_sha": "8604c4aeeb6ff5b261feacf95b721272893905ea",
     "enhanced_repository": "enhansome/enhansome-vba",
     "enhanced_repository_description": null,
     "title": "Awesome VBA with stars"

@@ -97,7 +97,7 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-18T05:02:40Z",
+            "last_commit": "2026-11-19T15:42:59Z",
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
@@ -140,7 +140,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-18T23:47:51Z",
+                "last_commit": "2026-11-20T02:09:15Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -1067,7 +1067,7 @@
                 "id": 1313104016,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-18T05:02:44Z",
+                "last_commit": "2026-11-19T22:29:46Z",
                 "open_issues": 0,
                 "owner": "WilliamSmithEdward",
                 "repo": "ReDim",
@@ -1471,7 +1471,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2135,
+                "stars": 2134,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1952,8 +1952,8 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T19:17:10Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-19T23:07:51Z",
+                "open_issues": 76,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 382,
@@ -2118,7 +2118,7 @@
             "open_issues": 525,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3452,
+            "stars": 3453,
             "topics": [
               "compound",
               "forensics",
@@ -2277,7 +2277,7 @@
             "id": 1457451701,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T18:46:58Z",
+            "last_commit": "2026-11-19T20:06:04Z",
             "open_issues": 0,
             "owner": "47Hunter47",
             "repo": "vb6decompiler",
@@ -2383,7 +2383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:58:57.917Z",
+    "last_updated": "2026-11-20T02:52:55.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

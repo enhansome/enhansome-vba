@@ -140,7 +140,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-20T02:09:15Z",
+                "last_commit": "2026-11-21T02:16:45Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -622,7 +622,7 @@
                 "open_issues": 2,
                 "owner": "personalityson",
                 "repo": "VBANN",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "deep-learning",
                   "excel",
@@ -798,7 +798,7 @@
                 "open_issues": 0,
                 "owner": "cristianbuse",
                 "repo": "VBA-UserForm-MouseScroll",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -900,6 +900,27 @@
             },
             {
               "node_type": "item",
+              "title": "WebView2 for Excel VBA",
+              "description": "WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A project to implement Microsoft WebView2 in Excel VBA UserForms.",
+                "homepage": null,
+                "id": 1182574150,
+                "language": "VBA",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:09:29Z",
+                "open_issues": 4,
+                "owner": "tarboh",
+                "repo": "WebView2-For-Excel-VBA",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
+            },
+            {
+              "node_type": "item",
               "title": "Easy EventListener",
               "description": "Easy EventListener - Consolidate all event handling of a userform into 1 callback.",
               "children": [],
@@ -940,27 +961,6 @@
                 "open_issues": 3,
                 "owner": "thetrik",
                 "repo": "VbTrickTimer",
-                "stars": 29,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:00:44.087Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WebView2 for Excel VBA",
-              "description": "WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A project to implement Microsoft WebView2 in Excel VBA UserForms.",
-                "homepage": null,
-                "id": 1182574150,
-                "language": "VBA",
-                "license": "MIT",
-                "last_commit": "2026-08-28T22:09:29Z",
-                "open_issues": 4,
-                "owner": "tarboh",
-                "repo": "WebView2-For-Excel-VBA",
                 "stars": 29,
                 "topics": []
               },
@@ -1620,7 +1620,7 @@
                 "open_issues": 1,
                 "owner": "vbacollective",
                 "repo": "wasabi",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "asynchronous",
                   "excel",
@@ -1683,7 +1683,7 @@
                 "open_issues": 4,
                 "owner": "tarboh",
                 "repo": "WebView2-For-Excel-VBA",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1952,11 +1952,11 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T23:07:51Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-20T22:41:59Z",
+                "open_issues": 65,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 382,
+                "stars": 383,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2015,7 +2015,7 @@
                 "open_issues": 2,
                 "owner": "DylanTallchiefGit",
                 "repo": "xlStudio",
-                "stars": 279,
+                "stars": 280,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2277,7 +2277,7 @@
             "id": 1457451701,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T20:06:04Z",
+            "last_commit": "2026-11-20T23:20:44Z",
             "open_issues": 0,
             "owner": "47Hunter47",
             "repo": "vb6decompiler",
@@ -2319,7 +2319,7 @@
                 "open_issues": 2,
                 "owner": "Planet-Source-Code",
                 "repo": "PSCIndex",
-                "stars": 143,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2383,7 +2383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:52:55.930Z",
+    "last_updated": "2026-11-21T03:01:16.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2395,7 +2395,7 @@
       "open_issues": 4,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 651,
+      "stars": 652,
       "topics": [
         "awesome",
         "awesome-list",

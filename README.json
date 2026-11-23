@@ -140,7 +140,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-22T01:52:00Z",
+                "last_commit": "2026-11-22T23:14:51Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -2118,7 +2118,7 @@
             "open_issues": 525,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3455,
+            "stars": 3456,
             "topics": [
               "compound",
               "forensics",
@@ -2383,7 +2383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:57:51.355Z",
+    "last_updated": "2026-11-23T02:22:48.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",

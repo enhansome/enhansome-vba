@@ -97,7 +97,7 @@
             "id": 1305346081,
             "language": "VBA",
             "license": "MIT",
-            "last_commit": "2026-11-19T15:42:59Z",
+            "last_commit": "2026-11-23T08:38:10Z",
             "open_issues": 0,
             "owner": "WilliamSmithEdward",
             "repo": "ROneCOne",
@@ -140,7 +140,7 @@
                 "id": 1110993812,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-22T23:14:51Z",
+                "last_commit": "2026-11-23T10:27:51Z",
                 "open_issues": 0,
                 "owner": "ECP-Solutions",
                 "repo": "ASF",
@@ -523,7 +523,7 @@
                     "open_issues": 18,
                     "owner": "VBA-tools",
                     "repo": "VBA-Dictionary",
-                    "stars": 406,
+                    "stars": 407,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1067,7 +1067,7 @@
                 "id": 1313104016,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-19T22:29:46Z",
+                "last_commit": "2026-11-23T07:39:08Z",
                 "open_issues": 0,
                 "owner": "WilliamSmithEdward",
                 "repo": "ReDim",
@@ -1347,7 +1347,7 @@
                 "language": "VBA",
                 "license": "MIT",
                 "last_commit": "2026-11-08T10:29:36Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "sihlfall",
                 "repo": "vba-regex",
                 "stars": 24,
@@ -1471,7 +1471,7 @@
                 "open_issues": 149,
                 "owner": "VBA-tools",
                 "repo": "VBA-Web",
-                "stars": 2134,
+                "stars": 2135,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -1562,7 +1562,7 @@
                 "open_issues": 6,
                 "owner": "GCuser99",
                 "repo": "SeleniumVBA",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "access",
                   "chrome",
@@ -2118,7 +2118,7 @@
             "open_issues": 525,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3456,
+            "stars": 3457,
             "topics": [
               "compound",
               "forensics",
@@ -2319,7 +2319,7 @@
                 "open_issues": 2,
                 "owner": "Planet-Source-Code",
                 "repo": "PSCIndex",
-                "stars": 142,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
@@ -2383,7 +2383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:22:48.416Z",
+    "last_updated": "2026-11-24T05:46:46.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2395,7 +2395,7 @@
       "open_issues": 4,
       "owner": "sancarn",
       "repo": "awesome-vba",
-      "stars": 653,
+      "stars": 652,
       "topics": [
         "awesome",
         "awesome-list",

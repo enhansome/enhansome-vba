@@ -1549,7 +1549,7 @@
             {
               "node_type": "item",
               "title": "SeleniumVBA",
-              "description": "SeleniumVBA - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.",
+              "description": "SeleniumVBA - Drive Selenium WebDriver directly from VBA. If you don't have the driver installed, or it's out of alignment with your browser version, the library will detect this, download a compatible version, and run your automation script.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1953,10 +1953,10 @@
                 "language": "VBA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T22:41:59Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
-                "stars": 383,
+                "stars": 384,
                 "topics": [
                   "addin",
                   "build-automation",
@@ -2115,10 +2115,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-02-14T19:42:44Z",
-            "open_issues": 526,
+            "open_issues": 525,
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3458,
+            "stars": 3460,
             "topics": [
               "compound",
               "forensics",
@@ -2383,7 +2383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:48:55.494Z",
+    "last_updated": "2026-11-26T04:00:28.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
@@ -2391,8 +2391,8 @@
       "id": 496789368,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-11-18T22:31:20Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-25T12:01:18Z",
+      "open_issues": 4,
       "owner": "sancarn",
       "repo": "awesome-vba",
       "stars": 653,
@@ -2405,7 +2405,7 @@
         "visual-basic-for-applications"
       ]
     },
-    "original_repository_sha": "8604c4aeeb6ff5b261feacf95b721272893905ea",
+    "original_repository_sha": "a23069cc0a0f245e131633321e5fc595ed758a55",
     "enhanced_repository": "enhansome/enhansome-vba",
     "enhanced_repository_description": null,
     "title": "Awesome VBA with stars"

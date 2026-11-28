@@ -540,7 +540,7 @@
                     "id": 770931351,
                     "language": "VBA",
                     "license": "MIT",
-                    "last_commit": "2026-02-05T10:47:20Z",
+                    "last_commit": "2026-11-27T16:16:26Z",
                     "open_issues": 2,
                     "owner": "cristianbuse",
                     "repo": "VBA-FastDictionary",
@@ -618,7 +618,7 @@
                 "id": 809118173,
                 "language": "VBA",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-12T07:15:45Z",
+                "last_commit": "2026-11-27T21:52:53Z",
                 "open_issues": 2,
                 "owner": "personalityson",
                 "repo": "VBANN",
@@ -921,32 +921,6 @@
             },
             {
               "node_type": "item",
-              "title": "Easy EventListener",
-              "description": "Easy EventListener - Consolidate all event handling of a userform into 1 callback.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🎉 A very easy way to add event listeners to a userform.",
-                "homepage": "https://www.roberttodar.com/",
-                "id": 174034206,
-                "language": "VBA",
-                "license": "MIT",
-                "last_commit": "2021-08-17T20:56:20Z",
-                "open_issues": 0,
-                "owner": "todar",
-                "repo": "VBA-Userform-EventListener",
-                "stars": 29,
-                "topics": [
-                  "eventlistener",
-                  "events",
-                  "userform",
-                  "vba"
-                ]
-              },
-              "first_seen": "2026-08-28T06:00:44.087Z"
-            },
-            {
-              "node_type": "item",
               "title": "Trick's Timer",
               "description": "Trick's Timer - If you need to run a piece of code continuously and don't have access to (and/or you need to run it faster than once per second), this is the class for you! Also check out the forum post for more information. Limitation: Requires a modal form.",
               "children": [],
@@ -963,6 +937,32 @@
                 "repo": "VbTrickTimer",
                 "stars": 29,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T06:00:44.087Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Easy EventListener",
+              "description": "Easy EventListener - Consolidate all event handling of a userform into 1 callback.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🎉 A very easy way to add event listeners to a userform.",
+                "homepage": "https://www.roberttodar.com/",
+                "id": 174034206,
+                "language": "VBA",
+                "license": "MIT",
+                "last_commit": "2021-08-17T20:56:20Z",
+                "open_issues": 0,
+                "owner": "todar",
+                "repo": "VBA-Userform-EventListener",
+                "stars": 28,
+                "topics": [
+                  "eventlistener",
+                  "events",
+                  "userform",
+                  "vba"
+                ]
               },
               "first_seen": "2026-08-28T06:00:44.087Z"
             },
@@ -1067,7 +1067,7 @@
                 "id": 1313104016,
                 "language": "VBA",
                 "license": "MIT",
-                "last_commit": "2026-11-23T07:39:08Z",
+                "last_commit": "2026-11-27T22:28:32Z",
                 "open_issues": 0,
                 "owner": "WilliamSmithEdward",
                 "repo": "ReDim",
@@ -1952,8 +1952,8 @@
                 "id": 35630893,
                 "language": "VBA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T22:41:59Z",
-                "open_issues": 69,
+                "last_commit": "2026-11-27T21:19:53Z",
+                "open_issues": 71,
                 "owner": "joyfullservice",
                 "repo": "msaccess-vcs-addin",
                 "stars": 384,
@@ -2383,7 +2383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:58:46.571Z",
+    "last_updated": "2026-11-28T03:46:37.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome VBA/VB6 frameworks, libraries, software and resources",
